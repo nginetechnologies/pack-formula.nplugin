@@ -1,0 +1,12 @@
+{
+    "02b774b5-27bb-4b33-8f0d-219364677d49": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Formula_Thumb.tex.nasset"
+    },
+    "e75903ab-159b-4942-a324-05e54bbbceff": {
+        "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
+        "path": "Package.nplugin"
+    },
+    "guid": "2741bb12-5423-e8ba-6411-23375c090b6e"
+}
