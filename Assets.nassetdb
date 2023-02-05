@@ -4,9 +4,325 @@
         "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Thumbnail/Formula_Thumb.tex.nasset"
     },
+    "03d1ffd6-6147-1ba0-1daf-a9962ffd29ab": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Rock_Snow_04_Thumb.tex.nasset"
+    },
+    "090d00ac-f92b-9222-2715-6a833b1c2c4c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Pine_Tree_03_Thumb.tex.nasset"
+    },
+    "0a12413d-163b-e036-d4fe-0e45b1515f65": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Railing_Thumb.tex.nasset"
+    },
+    "0fd1ad13-9778-dc95-aa39-62410cd92c37": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Rock_Snow_02_Thumb.tex.nasset"
+    },
+    "124c5657-6968-6331-c6be-e50d4b1bf7dd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Road_Corner_Long_Sand_Thumb.tex.nasset"
+    },
+    "15644d3c-9138-ca16-921f-3b64f58e2ac2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Road_Corner_Long_Border_Thumb.tex.nasset"
+    },
+    "157f3e34-0ebd-0dd9-17d3-e9251fac95d3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Pit_Straight_Thumb.tex.nasset"
+    },
+    "16294224-0bd8-a736-730c-4e739d94bc5b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Pine_Tree_04_Thumb.tex.nasset"
+    },
+    "18aef4e0-9367-6274-3bac-4847edd2b651": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Grandstand_Thumb.tex.nasset"
+    },
+    "1c91b69b-b717-1676-8124-53c6154af53d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Pine_Tree_02_Thumb.tex.nasset"
+    },
+    "1cc4a94c-e6e3-e95f-4bbe-e19298627c1a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Tent_Long_Thumb.tex.nasset"
+    },
+    "1f013ff9-52ab-2400-8733-0cd45e3d81e7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Rock_Moss_02_Thumb.tex.nasset"
+    },
+    "217ef775-e817-48fd-4a28-8924a94bb09a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Grandstand_Round_Thumb.tex.nasset"
+    },
+    "2361d91a-6879-48c2-f215-9e17662bb2cc": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Overhead_Large_Thumb.tex.nasset"
+    },
+    "26181900-2e94-120a-994a-c9513dcf882e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Common_Tree_05_Thumb.tex.nasset"
+    },
+    "2c4fb01d-7718-c152-3828-081dcb26979a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Road_Corner_Thumb.tex.nasset"
+    },
+    "2d152a3a-6441-69c0-5e5b-27f43f641386": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Rock_Moss_05_Thumb.tex.nasset"
+    },
+    "30a352bc-ce0e-a63d-3c36-223dd76b9bd5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Garage_Closed_Thumb.tex.nasset"
+    },
+    "30aaeb65-ee5c-7fdf-6cb9-8924317accb3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Common_Tree_04_Thumb.tex.nasset"
+    },
+    "32691c5c-0aa0-0242-532f-06f7cba3de23": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Road_Straight_Large_Thumb.tex.nasset"
+    },
+    "35d4522c-b2a2-affd-7245-12db321b5fb4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Flag_Checkered_Thumb.tex.nasset"
+    },
+    "37c43a73-e628-f18b-1eed-cd4754853b1a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Rock_05_Thumb.tex.nasset"
+    },
+    "3ce52fe3-334d-f245-8d2d-e8d224b65bec": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Road_Straight_Thumb.tex.nasset"
+    },
+    "3dbe8340-272c-3f3e-4466-29493a6cbf89": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Pit_Roof_Thumb.tex.nasset"
+    },
+    "4116fd32-d233-0259-c9ff-b8bc53543280": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Fence_Curved_Thumb.tex.nasset"
+    },
+    "42ec0628-9bc0-ceee-64c2-6a7942214cc2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Pine_Tree_05_Thumb.tex.nasset"
+    },
+    "49a6f0e4-d59a-bbe2-f24b-36cc171d6036": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Rock_Moss_07_Thumb.tex.nasset"
+    },
+    "49f84d86-cadc-ac48-fe2d-268d85d03d6c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Ground_Tile_Thumb.tex.nasset"
+    },
+    "4d3f0fa5-a4ed-d56f-4fcd-ba31138c2a9c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Bridge_Ramp_Thumb.tex.nasset"
+    },
+    "50e42454-f5c0-672d-62cc-6af6068ac598": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Billboard_Thumb.tex.nasset"
+    },
+    "52d13041-0b29-488f-9188-d648af5cb3c7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Road_Bump_Thumb.tex.nasset"
+    },
+    "539d027f-c50c-8edd-97ac-fc640a27a4cf": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Rock_07_Thumb.tex.nasset"
+    },
+    "56d5f106-be48-69db-e9e8-1f5f8ffaf6b4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Rock_Moss_01_Thumb.tex.nasset"
+    },
+    "57241c94-abe3-344e-6594-9aab67a16b05": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Rock_Snow_06_Thumb.tex.nasset"
+    },
+    "57422206-1ab1-dddc-a070-8afaca77ae44": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Pit_Exit_Thumb.tex.nasset"
+    },
+    "63f29460-19b3-e943-00ee-99ab35fc5499": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Racecar_Wheel_Thumb.tex.nasset"
+    },
+    "6832e77f-3dd2-9379-f41a-4652aa3129c7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Grass_03_Thumb.tex.nasset"
+    },
+    "6c4727f2-8596-c43f-dcf9-3242d22280b0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Barrier_Single_Thumb.tex.nasset"
+    },
+    "6f0a1838-d366-f5e6-127d-b932239e538a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Pit_Road_Thumb.tex.nasset"
+    },
+    "725c8176-6b2e-a8e6-ddc1-2d274f2f294f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Road_Corner_Long_Thumb.tex.nasset"
+    },
+    "726ad0ac-f4bd-8c46-7e1f-795a987af721": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Garage_Open_Thumb.tex.nasset"
+    },
+    "73f34737-de81-390b-efd5-caa81c039cb7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Pine_Tree_01_Thumb.tex.nasset"
+    },
+    "843da456-71c3-ab31-677f-d6fac9a53bd5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Cone_Thumb.tex.nasset"
+    },
+    "86d00798-ed4c-82d4-0ff2-af37c4ecaec9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Grass_01_Thumb.tex.nasset"
+    },
+    "88d7a386-0e2f-844a-a97c-a5f0511cccbc": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Common_Tree_01_Thumb.tex.nasset"
+    },
+    "8966ea08-f76b-8b59-826e-2eb6468a1fba": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Grandstand_Covered_Thumb.tex.nasset"
+    },
+    "8c163acc-bd7c-16c6-645d-8f3298411157": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Fence_Straight_Thumb.tex.nasset"
+    },
+    "9160fe06-4f4c-23df-f668-db891863fdfb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Barrier_Wall_Thumb.tex.nasset"
+    },
+    "95a1a873-b8bf-1be3-308a-ef2a283eeaee": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Banner_Thumb.tex.nasset"
+    },
+    "9663444e-b533-8fa3-2f75-a7fe766de0cd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Common_Tree_02_Thumb.tex.nasset"
+    },
+    "96cbc0b7-7a65-8076-9f2b-252c8813e30d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Pit_Entry_Thumb.tex.nasset"
+    },
+    "9d1111c0-e1b4-d6aa-f025-98bad1424504": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Tent_Closed_Thumb.tex.nasset"
+    },
+    "9ea363aa-f667-fa30-9607-697f6e400482": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Rock_06_Thumb.tex.nasset"
+    },
+    "a48a34f0-109e-3404-03cd-67f709e2f702": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Rock_02_Thumb.tex.nasset"
+    },
+    "a7c21e7e-142a-782b-ba1d-02a70a62f3c2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Common_Tree_03_Thumb.tex.nasset"
+    },
+    "a8a4cf78-b432-9c09-b5e7-7b563330b466": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Garage_Corner_Thumb.tex.nasset"
+    },
+    "aa5eed34-8596-04a4-18a2-d92cb1115531": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Rock_Snow_05_Thumb.tex.nasset"
+    },
+    "ae64bbf2-aefd-b2b1-d9c5-c55c9ea14138": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Overhead_Thumb.tex.nasset"
+    },
+    "ba3ddde9-d302-d56b-060e-3cfa57f5784c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Satellite_Thumb.tex.nasset"
+    },
+    "bcfe4457-a7c0-653f-caa3-245a30fd49c6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Racecar_Body_Thumb.tex.nasset"
+    },
+    "bd83ecff-86db-4ee3-3f41-f646ef9f77c0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Rock_01_Thumb.tex.nasset"
+    },
+    "bdc8e0b4-0b06-264e-6724-ecbdbc488d4d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Rock_04_Thumb.tex.nasset"
+    },
+    "bee5e99e-bc50-c723-d7af-deeb0473db59": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Road_Bridge_Thumb.tex.nasset"
+    },
+    "cb82bab2-a21e-3e48-7a67-70c31ea05150": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Grass_02_Thumb.tex.nasset"
+    },
+    "cbe41cd1-68af-9469-40f6-e9bb1d009ae9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Pit_Office_Thumb.tex.nasset"
+    },
+    "d0cd4ccf-3aa9-c955-a1b4-773e4eace550": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Road_Corner_Large_Border_Thumb.tex.nasset"
+    },
+    "d298f9d1-5c34-0570-cbc9-b5517eacffd8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Rock_03_Thumb.tex.nasset"
+    },
+    "d43d7846-b3b3-73ba-081b-480198744a82": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Rock_Moss_04_Thumb.tex.nasset"
+    },
+    "d4911e69-1b29-9b8e-2554-9d6acdb68e9d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Bridge_Straight_Thumb.tex.nasset"
+    },
+    "d5c8fa88-ce08-7cda-d67e-505a3780762d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Grandstand_Awning_Thumb.tex.nasset"
+    },
+    "d9207bec-6b9a-4b38-c00b-b4c83b19305b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Road_Corner_Large_Inner_Thumb.tex.nasset"
+    },
+    "d99c864d-8f4d-ed50-6e04-380347d02c83": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Road_Start_Thumb.tex.nasset"
+    },
+    "dae2cbad-718e-2790-014f-cb24690e4588": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Ground_Border_Thumb.tex.nasset"
+    },
     "e75903ab-159b-4942-a324-05e54bbbceff": {
         "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
         "path": "Package.nplugin"
+    },
+    "eaae3d75-9dfe-9c32-88fc-8ce9d17387fd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Tower_Thumb.tex.nasset"
+    },
+    "eac075f4-ec19-e3aa-46b9-634e45561969": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Rock_Snow_07_Thumb.tex.nasset"
+    },
+    "ebf70ca5-a23e-446f-6c74-79f3cf481b9b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Tent_Roof_Thumb.tex.nasset"
+    },
+    "eebd8111-318d-ebfc-8688-6f1aec585f57": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Rock_Snow_01_Thumb.tex.nasset"
+    },
+    "f4036a91-82c8-c974-e708-088309558ea6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Rock_Moss_06_Thumb.tex.nasset"
+    },
+    "fbe2a7fd-fdf2-a38f-e7e1-688508e94cb7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Tent_Thumb.tex.nasset"
     },
     "guid": "2741bb12-5423-e8ba-6411-23375c090b6e"
 }
