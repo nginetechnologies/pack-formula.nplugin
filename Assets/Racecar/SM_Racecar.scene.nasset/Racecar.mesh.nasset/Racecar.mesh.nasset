@@ -141,5 +141,14 @@
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "4f98bbdd-e8b6-3793-8473-c9d567d26a30"
-    }
+    },
+    "dependencies": [
+        "9b023efe-d542-7324-7c45-23f25eba0a81",
+        "044b4fa3-c27f-ed53-930d-973df83f9b40",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7",
+        "83bc8b9e-3dd8-f120-3b31-0a8fdb1e4526",
+        "4e082a47-a588-8ed8-ad99-5ac923118c58",
+        "20ccd9e0-66fc-475f-c0ea-5c26200f41ce",
+        "c398c964-fcf8-c314-a09b-d829fa0efb0d"
+    ]
 }

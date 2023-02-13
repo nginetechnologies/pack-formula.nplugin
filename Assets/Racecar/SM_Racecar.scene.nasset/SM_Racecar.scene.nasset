@@ -28,5 +28,8 @@
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "68a0033d-4d1e-3d61-8f8f-74e5135d9f41"
     },
-    "thumbnailGuid": "9e555fec-6bd2-e173-2c42-5f42988ad8f2"
+    "thumbnailGuid": "9e555fec-6bd2-e173-2c42-5f42988ad8f2",
+    "dependencies": [
+        "4f98bbdd-e8b6-3793-8473-c9d567d26a30"
+    ]
 }

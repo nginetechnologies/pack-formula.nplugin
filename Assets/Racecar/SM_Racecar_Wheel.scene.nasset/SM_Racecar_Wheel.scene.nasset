@@ -27,5 +27,8 @@
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "ef9a8a78-4bcf-64f0-65d5-b32adb46f1bb"
-    }
+    },
+    "dependencies": [
+        "45c487e3-f03a-0952-a5b3-b3a153a5664d"
+    ]
 }
