@@ -73,11 +73,15 @@
         ]
     },
     "044b4fa3-c27f-ed53-930d-973df83f9b40": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Racecar/SM_Racecar.scene.nasset/Racecar.mesh.nasset/Racecar Tire.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9b023efe-d542-7324-7c45-23f25eba0a81",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "0489d78b-590d-c215-706c-54d3e7abbeac": {
@@ -428,7 +432,10 @@
     "20ccd9e0-66fc-475f-c0ea-5c26200f41ce": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Racecar/Material Instances/Glass.mtli.nasset",
-        "thumbnail": "546a6236-3ace-3ac0-55e6-3f48b05dcf2e"
+        "thumbnail": "546a6236-3ace-3ac0-55e6-3f48b05dcf2e",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "20dafb0f-6550-8564-da3b-a96f0be5a71a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -889,6 +896,13 @@
         "path": "Assets/Racecar/SM_Racecar_Wheel.scene.nasset/Racecar Wheel.mesh.nasset/Racecar Wheel.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "9b023efe-d542-7324-7c45-23f25eba0a81",
+            "97d880ba-1d22-506c-47b1-b5c8d6815493",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "97251675-e40b-dfde-36d5-d8360534bc8f",
+            "c8009de7-7778-3f46-5f47-61a2706c4d94"
         ]
     },
     "46c57e92-d18d-e538-b494-00a25e5bb5f9": {
@@ -1014,11 +1028,15 @@
         ]
     },
     "4e082a47-a588-8ed8-ad99-5ac923118c58": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Racecar/SM_Racecar.scene.nasset/Racecar.mesh.nasset/Racecar Trim Main.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "83bc8b9e-3dd8-f120-3b31-0a8fdb1e4526",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "4f016370-a3c3-2dcb-2bb5-08b2f5d7decb": {
@@ -1051,6 +1069,15 @@
         "path": "Assets/Racecar/SM_Racecar.scene.nasset/Racecar.mesh.nasset/Racecar.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "9b023efe-d542-7324-7c45-23f25eba0a81",
+            "044b4fa3-c27f-ed53-930d-973df83f9b40",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "83bc8b9e-3dd8-f120-3b31-0a8fdb1e4526",
+            "4e082a47-a588-8ed8-ad99-5ac923118c58",
+            "20ccd9e0-66fc-475f-c0ea-5c26200f41ce",
+            "c398c964-fcf8-c314-a09b-d829fa0efb0d"
         ]
     },
     "502c6876-d73e-d179-3c47-465e7648fb62": {
@@ -1343,7 +1370,10 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Racecar/SM_Racecar.scene.nasset/SM_Racecar.scene.nasset",
-        "thumbnail": "9e555fec-6bd2-e173-2c42-5f42988ad8f2"
+        "thumbnail": "9e555fec-6bd2-e173-2c42-5f42988ad8f2",
+        "dependencies": [
+            "4f98bbdd-e8b6-3793-8473-c9d567d26a30"
+        ]
     },
     "68c6cb9e-da68-da2a-18c5-50019df1cd8c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1666,7 +1696,10 @@
     "83bc8b9e-3dd8-f120-3b31-0a8fdb1e4526": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Racecar/Material Instances/Trim Main.mtli.nasset",
-        "thumbnail": "6ac76e34-ac15-6485-12dd-9e2f9b4f33e5"
+        "thumbnail": "6ac76e34-ac15-6485-12dd-9e2f9b4f33e5",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "84229edf-e660-b685-1ce5-090e17609aa4": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1902,14 +1935,21 @@
     },
     "97251675-e40b-dfde-36d5-d8360534bc8f": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Racecar/Material Instances/White.mtli.nasset"
+        "path": "Assets/Racecar/Material Instances/White.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "97d880ba-1d22-506c-47b1-b5c8d6815493": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Racecar/SM_Racecar_Wheel.scene.nasset/Racecar Wheel.mesh.nasset/Racecar Wheel Tire.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9b023efe-d542-7324-7c45-23f25eba0a81",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "97fca62f-7191-aa47-896f-1ddd51a7a2ef": {
@@ -1941,7 +1981,10 @@
     "9b023efe-d542-7324-7c45-23f25eba0a81": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Racecar/Material Instances/Tire.mtli.nasset",
-        "thumbnail": "3a27ad0b-1260-907a-cd67-6bebf22cb60e"
+        "thumbnail": "3a27ad0b-1260-907a-cd67-6bebf22cb60e",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "9b63f74b-3bef-3b90-5ea3-64c07c86dd3f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2577,11 +2620,15 @@
         ]
     },
     "c398c964-fcf8-c314-a09b-d829fa0efb0d": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Racecar/SM_Racecar.scene.nasset/Racecar.mesh.nasset/Racecar Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "20ccd9e0-66fc-475f-c0ea-5c26200f41ce",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "c3fe39a9-beef-ead7-faea-ecdbfbd126b4": {
@@ -2695,11 +2742,15 @@
         ]
     },
     "c8009de7-7778-3f46-5f47-61a2706c4d94": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Racecar/SM_Racecar_Wheel.scene.nasset/Racecar Wheel.mesh.nasset/Racecar Wheel White.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "97251675-e40b-dfde-36d5-d8360534bc8f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "c986b33c-9a61-4f29-6cfa-85d28dc5e6f5": {
@@ -3323,7 +3374,10 @@
     "ef9a8a78-4bcf-64f0-65d5-b32adb46f1bb": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Racecar/SM_Racecar_Wheel.scene.nasset/SM_Racecar_Wheel.scene.nasset"
+        "path": "Assets/Racecar/SM_Racecar_Wheel.scene.nasset/SM_Racecar_Wheel.scene.nasset",
+        "dependencies": [
+            "45c487e3-f03a-0952-a5b3-b3a153a5664d"
+        ]
     },
     "f1d35e7d-1b74-e8b2-b960-d34c7f73ea31": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
