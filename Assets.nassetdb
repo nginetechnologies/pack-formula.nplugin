@@ -1,328 +1,3579 @@
 {
+    "015fa776-5637-c8ff-aa6f-1a6ef063f426": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Textures/T_Checkers_D.tex.nasset"
+    },
+    "01647878-1fec-8c5c-e215-fa39caed1abb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Sand.mtli.nasset.tex.nasset"
+    },
+    "0267beec-83bb-8368-daaa-5b4ac88ac0eb": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Trim Main.mtli.nasset",
+        "thumbnail": "434c3bd3-687e-8190-36c7-e96bc7c83c3c",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "02b774b5-27bb-4b33-8f0d-219364677d49": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Thumbnail/Formula_Thumb.tex.nasset"
     },
-    "03d1ffd6-6147-1ba0-1daf-a9962ffd29ab": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Rock_Snow_04_Thumb.tex.nasset"
-    },
-    "090d00ac-f92b-9222-2715-6a833b1c2c4c": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Pine_Tree_03_Thumb.tex.nasset"
-    },
-    "0a12413d-163b-e036-d4fe-0e45b1515f65": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Railing_Thumb.tex.nasset"
-    },
-    "0fd1ad13-9778-dc95-aa39-62410cd92c37": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Rock_Snow_02_Thumb.tex.nasset"
-    },
-    "124c5657-6968-6331-c6be-e50d4b1bf7dd": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Road_Corner_Long_Sand_Thumb.tex.nasset"
-    },
-    "15644d3c-9138-ca16-921f-3b64f58e2ac2": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Road_Corner_Long_Border_Thumb.tex.nasset"
-    },
-    "157f3e34-0ebd-0dd9-17d3-e9251fac95d3": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Pit_Straight_Thumb.tex.nasset"
-    },
-    "16294224-0bd8-a736-730c-4e739d94bc5b": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Pine_Tree_04_Thumb.tex.nasset"
-    },
-    "18aef4e0-9367-6274-3bac-4847edd2b651": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Grandstand_Thumb.tex.nasset"
-    },
-    "1c91b69b-b717-1676-8124-53c6154af53d": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Pine_Tree_02_Thumb.tex.nasset"
-    },
-    "1cc4a94c-e6e3-e95f-4bbe-e19298627c1a": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Tent_Long_Thumb.tex.nasset"
-    },
-    "1f013ff9-52ab-2400-8733-0cd45e3d81e7": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Rock_Moss_02_Thumb.tex.nasset"
-    },
-    "217ef775-e817-48fd-4a28-8924a94bb09a": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Grandstand_Round_Thumb.tex.nasset"
-    },
-    "2361d91a-6879-48c2-f215-9e17662bb2cc": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Overhead_Large_Thumb.tex.nasset"
-    },
-    "26181900-2e94-120a-994a-c9513dcf882e": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Common_Tree_05_Thumb.tex.nasset"
-    },
-    "2c4fb01d-7718-c152-3828-081dcb26979a": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Road_Corner_Thumb.tex.nasset"
-    },
-    "2d152a3a-6441-69c0-5e5b-27f43f641386": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Rock_Moss_05_Thumb.tex.nasset"
-    },
-    "30a352bc-ce0e-a63d-3c36-223dd76b9bd5": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Garage_Closed_Thumb.tex.nasset"
-    },
-    "30aaeb65-ee5c-7fdf-6cb9-8924317accb3": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Common_Tree_04_Thumb.tex.nasset"
-    },
-    "32691c5c-0aa0-0242-532f-06f7cba3de23": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Road_Straight_Large_Thumb.tex.nasset"
-    },
-    "35d4522c-b2a2-affd-7245-12db321b5fb4": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Flag_Checkered_Thumb.tex.nasset"
-    },
-    "37c43a73-e628-f18b-1eed-cd4754853b1a": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Rock_05_Thumb.tex.nasset"
-    },
-    "3ce52fe3-334d-f245-8d2d-e8d224b65bec": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Road_Straight_Thumb.tex.nasset"
-    },
-    "3dbe8340-272c-3f3e-4466-29493a6cbf89": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Pit_Roof_Thumb.tex.nasset"
-    },
-    "4116fd32-d233-0259-c9ff-b8bc53543280": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Fence_Curved_Thumb.tex.nasset"
-    },
-    "42ec0628-9bc0-ceee-64c2-6a7942214cc2": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Pine_Tree_05_Thumb.tex.nasset"
-    },
-    "49a6f0e4-d59a-bbe2-f24b-36cc171d6036": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Rock_Moss_07_Thumb.tex.nasset"
-    },
-    "49f84d86-cadc-ac48-fe2d-268d85d03d6c": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Ground_Tile_Thumb.tex.nasset"
-    },
-    "4d3f0fa5-a4ed-d56f-4fcd-ba31138c2a9c": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Bridge_Ramp_Thumb.tex.nasset"
-    },
-    "50e42454-f5c0-672d-62cc-6af6068ac598": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Billboard_Thumb.tex.nasset"
-    },
-    "52d13041-0b29-488f-9188-d648af5cb3c7": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Road_Bump_Thumb.tex.nasset"
-    },
-    "539d027f-c50c-8edd-97ac-fc640a27a4cf": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Rock_07_Thumb.tex.nasset"
-    },
-    "56d5f106-be48-69db-e9e8-1f5f8ffaf6b4": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Rock_Moss_01_Thumb.tex.nasset"
-    },
-    "57241c94-abe3-344e-6594-9aab67a16b05": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Rock_Snow_06_Thumb.tex.nasset"
-    },
-    "57422206-1ab1-dddc-a070-8afaca77ae44": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Pit_Exit_Thumb.tex.nasset"
-    },
-    "63f29460-19b3-e943-00ee-99ab35fc5499": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Racecar_Wheel_Thumb.tex.nasset"
-    },
-    "6832e77f-3dd2-9379-f41a-4652aa3129c7": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Grass_03_Thumb.tex.nasset"
-    },
-    "6c4727f2-8596-c43f-dcf9-3242d22280b0": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Barrier_Single_Thumb.tex.nasset"
-    },
-    "6f0a1838-d366-f5e6-127d-b932239e538a": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Pit_Road_Thumb.tex.nasset"
-    },
-    "725c8176-6b2e-a8e6-ddc1-2d274f2f294f": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Road_Corner_Long_Thumb.tex.nasset"
-    },
-    "726ad0ac-f4bd-8c46-7e1f-795a987af721": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Garage_Open_Thumb.tex.nasset"
-    },
-    "73f34737-de81-390b-efd5-caa81c039cb7": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Pine_Tree_01_Thumb.tex.nasset"
-    },
-    "843da456-71c3-ab31-677f-d6fac9a53bd5": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Cone_Thumb.tex.nasset"
-    },
-    "86d00798-ed4c-82d4-0ff2-af37c4ecaec9": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Grass_01_Thumb.tex.nasset"
-    },
-    "88d7a386-0e2f-844a-a97c-a5f0511cccbc": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Common_Tree_01_Thumb.tex.nasset"
-    },
-    "8966ea08-f76b-8b59-826e-2eb6468a1fba": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Grandstand_Covered_Thumb.tex.nasset"
-    },
-    "8c163acc-bd7c-16c6-645d-8f3298411157": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Fence_Straight_Thumb.tex.nasset"
-    },
-    "9160fe06-4f4c-23df-f668-db891863fdfb": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Barrier_Wall_Thumb.tex.nasset"
-    },
-    "95a1a873-b8bf-1be3-308a-ef2a283eeaee": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Banner_Thumb.tex.nasset"
-    },
-    "9663444e-b533-8fa3-2f75-a7fe766de0cd": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Common_Tree_02_Thumb.tex.nasset"
-    },
-    "96cbc0b7-7a65-8076-9f2b-252c8813e30d": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Pit_Entry_Thumb.tex.nasset"
-    },
-    "9d1111c0-e1b4-d6aa-f025-98bad1424504": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Tent_Closed_Thumb.tex.nasset"
-    },
-    "9ea363aa-f667-fa30-9607-697f6e400482": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Rock_06_Thumb.tex.nasset"
-    },
-    "a48a34f0-109e-3404-03cd-67f709e2f702": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Rock_02_Thumb.tex.nasset"
-    },
-    "a7c21e7e-142a-782b-ba1d-02a70a62f3c2": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Common_Tree_03_Thumb.tex.nasset"
-    },
-    "a8a4cf78-b432-9c09-b5e7-7b563330b466": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Garage_Corner_Thumb.tex.nasset"
-    },
-    "aa5eed34-8596-04a4-18a2-d92cb1115531": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Rock_Snow_05_Thumb.tex.nasset"
-    },
-    "ae64bbf2-aefd-b2b1-d9c5-c55c9ea14138": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Overhead_Thumb.tex.nasset"
-    },
-    "ba3ddde9-d302-d56b-060e-3cfa57f5784c": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Satellite_Thumb.tex.nasset"
-    },
-    "bcfe4457-a7c0-653f-caa3-245a30fd49c6": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Racecar_Body_Thumb.tex.nasset"
-    },
-    "bd83ecff-86db-4ee3-3f41-f646ef9f77c0": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Rock_01_Thumb.tex.nasset"
-    },
-    "bdc8e0b4-0b06-264e-6724-ecbdbc488d4d": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Rock_04_Thumb.tex.nasset"
-    },
-    "bee5e99e-bc50-c723-d7af-deeb0473db59": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Road_Bridge_Thumb.tex.nasset"
-    },
-    "cb82bab2-a21e-3e48-7a67-70c31ea05150": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Grass_02_Thumb.tex.nasset"
-    },
-    "cbe41cd1-68af-9469-40f6-e9bb1d009ae9": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Pit_Office_Thumb.tex.nasset"
-    },
-    "d0cd4ccf-3aa9-c955-a1b4-773e4eace550": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Road_Corner_Large_Border_Thumb.tex.nasset"
-    },
-    "d298f9d1-5c34-0570-cbc9-b5517eacffd8": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Rock_03_Thumb.tex.nasset"
-    },
-    "d43d7846-b3b3-73ba-081b-480198744a82": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Rock_Moss_04_Thumb.tex.nasset"
-    },
-    "d4911e69-1b29-9b8e-2554-9d6acdb68e9d": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Bridge_Straight_Thumb.tex.nasset"
-    },
-    "d5c8fa88-ce08-7cda-d67e-505a3780762d": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Grandstand_Awning_Thumb.tex.nasset"
-    },
-    "d9207bec-6b9a-4b38-c00b-b4c83b19305b": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Road_Corner_Large_Inner_Thumb.tex.nasset"
-    },
-    "d99c864d-8f4d-ed50-6e04-380347d02c83": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Road_Start_Thumb.tex.nasset"
-    },
-    "dae2cbad-718e-2790-014f-cb24690e4588": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Ground_Border_Thumb.tex.nasset"
+    "0361cbb3-8733-1d0c-b0ec-d2bc69009778": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pit Straight.mesh.nasset/Pit Straight.mesh.nasset",
+        "thumbnail": "3a5b566d-4a7c-bccc-7c2c-76928dfa47da",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "36ac2d08-fbc3-3cae-fd76-31c5df629716",
+            "5b702d08-c491-dcc6-844d-a621e2f35cfe",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "aa7dad16-781b-86ed-a315-c8f8b474fc7d",
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "48304c7c-0d22-1577-fdae-c5c72c90c5e8"
+        ]
+    },
+    "037c83a3-3842-c40d-7e1b-9cb4e38db3af": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grandstand Round.mesh.nasset/Grandstand Round.mesh.nasset",
+        "thumbnail": "9c79b5e8-21ac-3087-dfd6-5d9dfd4acc07",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "81bf6930-c6a7-fec3-1dce-6ecd75158561",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "0267beec-83bb-8368-daaa-5b4ac88ac0eb",
+            "f3db5e17-dc62-12e2-a5fa-949ed7fdb48e",
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "2524af71-bf9f-bbd6-90d0-627ad625bc3c",
+            "d9facafe-a98e-2ff9-6eab-333f2ea180d6",
+            "bbf04579-0a76-e4a3-0cfb-93e6d065e02e"
+        ]
+    },
+    "041c5f9b-685d-5873-4622-6fb067998890": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Barrier Single.mesh.nasset/Barrier Single.mesh.nasset",
+        "thumbnail": "a0d4821d-f43d-921f-8f51-8415eaf3ee3d",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0267beec-83bb-8368-daaa-5b4ac88ac0eb",
+            "c986b33c-9a61-4f29-6cfa-85d28dc5e6f5",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "044b4fa3-c27f-ed53-930d-973df83f9b40": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Racecar/SM_Racecar.scene.nasset/Racecar.mesh.nasset/Racecar Tire.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0489d78b-590d-c215-706c-54d3e7abbeac": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grandstand Covered.mesh.nasset/Thumbnails/Grandstand Covered.mesh.nasset.tex.nasset"
+    },
+    "055563b9-ea22-5539-c1ac-2500deac1c1e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Lightpost.mesh.nasset/Lightpost Default.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d9facafe-a98e-2ff9-6eab-333f2ea180d6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "06d5533d-cb79-26d4-b05d-8535948f3eb5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grass 02.mesh.nasset/Grass 02.mesh.nasset",
+        "thumbnail": "82e1080e-66d1-3e49-d5c8-306c907abdb5",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "50d8f313-0b87-59f7-d9c6-4edda96b36ed",
+            "fa586c54-6471-7c1a-1a67-8b908b6ee41c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0741fd1c-40c2-a99f-dd1f-1fca6d634c1f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Large Sand.mesh.nasset/Road Corner Large Sand Default.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d9facafe-a98e-2ff9-6eab-333f2ea180d6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "09582b74-921f-8a74-a1ad-5189dcc26ed6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Medium Border.mesh.nasset/Thumbnails/Road Corner Medium Border.mesh.nasset.tex.nasset"
+    },
+    "09eccb0f-85ad-d802-caaa-efde6241c4ee": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Garage Closed.mesh.nasset/Garage Closed White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0af02b69-48c3-cd9b-5b8f-1ec57c63cd63": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pit Office.mesh.nasset/Pit Office Trim Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0267beec-83bb-8368-daaa-5b4ac88ac0eb",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0b52ab1c-aff5-cad9-263f-2572ae7b150e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Common Tree 02.mesh.nasset/Common Tree 02 Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "e90e7c9e-c792-25da-2a4d-ec657a0673c1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0c8f8a50-6392-07e9-869e-5abee6b37b67": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Trim Red.mtli.nasset",
+        "thumbnail": "5f73aa0b-c42f-bf1b-d5d8-c4a27cada08b",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "0d0b937e-ca8c-4fa6-61e6-6e0de1b5f7b1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grandstand Awning.mesh.nasset/Grandstand Awning White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0d2292e4-637c-0afd-559f-eabe668599c9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Large.mesh.nasset/Thumbnails/Road Corner Large.mesh.nasset.tex.nasset"
+    },
+    "0d396fdf-ca11-fa2c-7d1c-3b988111cb25": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pit Road.mesh.nasset/Thumbnails/Pit Road.mesh.nasset.tex.nasset"
+    },
+    "0dadb956-c920-f6c0-f132-f583aec9fce2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Long.mesh.nasset/Road Corner Long Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0e8bc235-b29e-79e8-ea4a-4a2a811059b5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Lightpost Quad.mesh.nasset/Lightpost Quad Default.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d9facafe-a98e-2ff9-6eab-333f2ea180d6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0efac695-6d6c-e7d2-2243-48fbe636ee4e": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Glass.mtli.nasset",
+        "thumbnail": "64c6f36c-6f0a-f207-8418-5d569b3420c0",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "0fbcae71-708b-bd33-542f-0b3c4445d968": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Lightpost.mesh.nasset/Thumbnails/Lightpost.mesh.nasset.tex.nasset"
+    },
+    "0fec59bd-bbab-4330-1423-5e8927341428": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Common Tree 03.mesh.nasset/Common Tree 03.mesh.nasset",
+        "thumbnail": "b0f98d54-e2f6-5104-21a4-de19d4fdaeee",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "e90e7c9e-c792-25da-2a4d-ec657a0673c1",
+            "be2fa64f-10cf-2605-91b4-d63243f653ce",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "50d8f313-0b87-59f7-d9c6-4edda96b36ed",
+            "d09ca5f1-e2ea-1bfb-8644-584c1f60c900",
+            "4f4c9fda-26b3-837d-1ae4-d8ab9b4d492e",
+            "4364b03a-c2cb-c332-0a3e-38e6f5546e71"
+        ]
+    },
+    "138a8333-e3e8-2454-2b37-8f220b283612": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grass 03.mesh.nasset/Grass 03 Green.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "50d8f313-0b87-59f7-d9c6-4edda96b36ed",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "145b86f5-9309-2112-d087-48d61dc11013": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Large Sand.mesh.nasset/Road Corner Large Sand.mesh.nasset",
+        "thumbnail": "577f0bfd-80b4-f2be-348c-04a7977ed338",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "8733a90d-627d-9980-d891-55f9a7a1ee45",
+            "8b0bf628-7165-f4c8-2d7d-5d88b256c9c4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "d9facafe-a98e-2ff9-6eab-333f2ea180d6",
+            "0741fd1c-40c2-a99f-dd1f-1fca6d634c1f",
+            "36ac2d08-fbc3-3cae-fd76-31c5df629716",
+            "9f84568d-6567-1714-8f70-731bb3e591dc",
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "cb61b44b-3ace-98fe-61bb-b4d9a19c3505"
+        ]
+    },
+    "147a1958-00d7-9367-6c5c-ee628cb499c5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pine Tree 05.mesh.nasset/Pine Tree 05 Green.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "50d8f313-0b87-59f7-d9c6-4edda96b36ed",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "15f6e71b-5567-dd6b-21a7-1d2f1bac6b28": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Banner.mesh.nasset/Thumbnails/Banner.mesh.nasset.tex.nasset"
+    },
+    "1695c89a-dfd6-15de-eddd-bab29d675faa": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Overhead Large.mesh.nasset/Overhead Large White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "172f2d53-a0b7-de47-5c63-75925ee4e548": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Racecar/Material Instances/Thumbnails/Tire.001.mtli.nasset.tex.nasset"
+    },
+    "17615dd0-73d4-ed3f-22c1-f916ce383a02": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Tower.mesh.nasset/Thumbnails/Tower.mesh.nasset.tex.nasset"
+    },
+    "1a2602be-ce70-e41e-aa0b-87bf3c6ef21f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pine Tree 04.mesh.nasset/Pine Tree 04.mesh.nasset",
+        "thumbnail": "6d2eb7f9-0f4c-ff3e-2a9b-b7da190a291b",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "e90e7c9e-c792-25da-2a4d-ec657a0673c1",
+            "942075c8-8909-f2b9-18c6-d995ab770ad5",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "50d8f313-0b87-59f7-d9c6-4edda96b36ed",
+            "cebf2682-67a5-9fb6-e7a9-7c89a4a3eb86"
+        ]
+    },
+    "1a974148-f79c-42ca-acaa-453e08a09754": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Player/Formula Player.scene.nasset"
+    },
+    "1ac8af9d-191b-f919-487a-d0e4157681fa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Railing.mesh.nasset/Railing.mesh.nasset",
+        "thumbnail": "d72547d1-10b3-fbd6-350f-0456be6ebe85",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "3925a551-2df4-5583-7887-2d8e1444f840",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "1ce1bd1a-a1cd-a7c1-93a8-d52051c08f6c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pit Exit.mesh.nasset/Pit Exit White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "1e0d3474-6754-677d-d6ba-6346aa435ef9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Banner.mesh.nasset/Banner White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "1eecab21-82e1-6d51-ed62-402275ef3e7c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Lightpost.mesh.nasset/Lightpost.mesh.nasset",
+        "thumbnail": "0fbcae71-708b-bd33-542f-0b3c4445d968",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "d9facafe-a98e-2ff9-6eab-333f2ea180d6",
+            "055563b9-ea22-5539-c1ac-2500deac1c1e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "f5765181-0c77-d6a4-c8e6-4a948f319c6b",
+            "ec2268b9-a52e-1b6f-f6c9-d67cf332ad0f",
+            "771598a7-180e-5a9d-b752-788f02e5584d"
+        ]
+    },
+    "201dab11-a28f-87a4-d1a7-ee3fcf6ed5a8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pine Tree 02.mesh.nasset/Pine Tree 02 Green.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "50d8f313-0b87-59f7-d9c6-4edda96b36ed",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "2078998a-bf01-75a7-71e5-237a605497f3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Large Border.mesh.nasset/Road Corner Large Border Trim Scondary.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "36ac2d08-fbc3-3cae-fd76-31c5df629716",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "2096ceaa-3109-0c0b-2f26-f8f98d40af05": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Medium.mesh.nasset/Road Corner Medium Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "20ccd9e0-66fc-475f-c0ea-5c26200f41ce": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Racecar/Material Instances/Glass.mtli.nasset",
+        "thumbnail": "546a6236-3ace-3ac0-55e6-3f48b05dcf2e"
+    },
+    "20dafb0f-6550-8564-da3b-a96f0be5a71a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Large.mesh.nasset/Road Corner Large.mesh.nasset",
+        "thumbnail": "0d2292e4-637c-0afd-559f-eabe668599c9",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "93ae0b03-879c-6dbf-0546-46a6a49aeef4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "36ac2d08-fbc3-3cae-fd76-31c5df629716",
+            "4446b5c9-9db6-7aca-33f1-99cc535f7274",
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "5b2cc042-73dc-ea84-8f3a-d0adf41a853e",
+            "d5dc7608-f7bb-9ffe-301e-7b8d58807167",
+            "b2ea5434-36fc-43db-b178-90bea6dbb6d5",
+            "0c8f8a50-6392-07e9-869e-5abee6b37b67",
+            "75bdbee9-94d0-bdb5-d15f-9c487d0ad7fe"
+        ]
+    },
+    "2373b1bc-1f12-30a6-c309-9b9ab07a4b3b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Cone.mesh.nasset/Thumbnails/Cone.mesh.nasset.tex.nasset"
+    },
+    "2473c103-8038-f5dc-9819-41284ff27e37": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Garage Open.mesh.nasset/Garage Open Ngine.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "3eb0324b-f696-0f72-b057-26c715d19dd8",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "2524af71-bf9f-bbd6-90d0-627ad625bc3c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grandstand Round.mesh.nasset/Grandstand Round Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "2554e41b-b869-ff5f-244a-a25fa0f38aa6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Tent Long.mesh.nasset/Tent Long.mesh.nasset",
+        "thumbnail": "473f3641-2e0e-ca11-959b-a600a4b809ba",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "c61b0c48-0420-012c-8e9f-aa32d445ce36",
+            "5433042e-d91e-1e18-1738-447ea644894d",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "62127ab5-858d-f53f-66f2-b4631ddc49bf"
+        ]
+    },
+    "26a3da00-fd10-7b78-3b0f-b670502ca1f4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner.mesh.nasset/Road Corner Trim Scondary.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "36ac2d08-fbc3-3cae-fd76-31c5df629716",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "27287762-ac31-3f35-9df0-a6e17f3ae8f6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Common Tree 01.mesh.nasset/Common Tree 01.mesh.nasset",
+        "thumbnail": "beabda8c-89ce-be16-d9ff-13ece7aff0b6",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "e90e7c9e-c792-25da-2a4d-ec657a0673c1",
+            "9eb2feb8-08c3-23b1-2eb0-5cb7f3552ee9",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "50d8f313-0b87-59f7-d9c6-4edda96b36ed",
+            "88a8415b-5786-2d9b-8353-3b1466043715"
+        ]
+    },
+    "283cb16e-1c99-656e-0825-f21f773a96e7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Overhead.mesh.nasset/Overhead White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "28ac3283-45e8-8338-a9d0-424ea341eb38": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pit Entry.mesh.nasset/Pit Entry Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "290129a5-ff17-33c6-e3cd-9295b41c116c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pine Tree 02.mesh.nasset/Pine Tree 02.mesh.nasset",
+        "thumbnail": "765bdcaa-1b89-eb98-b1ab-05af49561b58",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "e90e7c9e-c792-25da-2a4d-ec657a0673c1",
+            "dbe70a07-7348-a2fe-7623-2d0fcd763669",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "50d8f313-0b87-59f7-d9c6-4edda96b36ed",
+            "201dab11-a28f-87a4-d1a7-ee3fcf6ed5a8"
+        ]
+    },
+    "2bf52fd6-46d0-14e5-c8d4-84064efa77e7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/White.mtli.nasset.tex.nasset"
+    },
+    "2c97395f-f17f-31e6-f982-1af2d921bf3c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Material.mtli.nasset.tex.nasset"
+    },
+    "30e580b9-02c0-0216-fdbc-70e95ab5a71d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pit Roof.mesh.nasset/Pit Roof Glass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0efac695-6d6c-e7d2-2243-48fbe636ee4e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "31f74022-8fa3-f0c2-22dc-01fa293e1ce6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Overhead Large.mesh.nasset/Overhead Large.mesh.nasset",
+        "thumbnail": "84229edf-e660-b685-1ce5-090e17609aa4",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "9e1b6891-0da7-d0d7-2693-d43aa48ffc1b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "1695c89a-dfd6-15de-eddd-bab29d675faa"
+        ]
+    },
+    "33ca27f0-c7a4-128f-8419-c5f30cbbab1d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pine Tree 03.mesh.nasset/Thumbnails/Pine Tree 03.mesh.nasset.tex.nasset"
+    },
+    "34487ca1-68fb-777d-4724-be2cb885ca4a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Common Tree 02.mesh.nasset/Thumbnails/Common Tree 02.mesh.nasset.tex.nasset"
+    },
+    "34afdc84-7df6-cd31-abe3-79735306bc5a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Tent Closed.mesh.nasset/Tent Closed.mesh.nasset",
+        "thumbnail": "e2fa4db0-d714-a843-299e-33b0cc346892",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "36ac2d08-fbc3-3cae-fd76-31c5df629716",
+            "763ff194-4647-42f0-267f-0a6aa059d1a1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "f6377b64-553e-cabe-b33a-85138d51108b"
+        ]
+    },
+    "36ac2d08-fbc3-3cae-fd76-31c5df629716": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Trim Scondary.mtli.nasset",
+        "thumbnail": "7144a524-ed70-2194-5360-a0e13715a75e",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "373ce1d0-1a6c-867e-74e6-d959985e3ab0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Ground Large.mesh.nasset/Ground Large.mesh.nasset",
+        "thumbnail": "9355c057-10cd-bc93-cfa8-f95c864928ff",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "fefb64cd-fc1f-31a7-96ca-aeffcb11df56",
+            "86d49ee4-1ecd-c30c-b027-eeb03411e88d",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "90248c64-942b-ae6b-d05f-fa52bfdc417d",
+            "dc64ea15-345b-5cbc-a22d-ce9233791896"
+        ]
+    },
+    "37677607-d8ee-cdd2-d999-44d4b1cd8bc2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Sun.mesh.nasset/Thumbnails/Sun.mesh.nasset.tex.nasset"
+    },
+    "3888d6be-5f07-dd73-4f64-567abd8d700e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pit Roof.mesh.nasset/Pit Roof White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "3925a551-2df4-5583-7887-2d8e1444f840": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Railing.mesh.nasset/Railing White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "3a27ad0b-1260-907a-cd67-6bebf22cb60e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Racecar/Material Instances/Thumbnails/Tire.mtli.nasset.tex.nasset"
+    },
+    "3a5b566d-4a7c-bccc-7c2c-76928dfa47da": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pit Straight.mesh.nasset/Thumbnails/Pit Straight.mesh.nasset.tex.nasset"
+    },
+    "3ab10002-8163-1520-435f-2a33000d593a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pit Entry.mesh.nasset/Pit Entry White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "3acb77a9-dc38-a134-76f6-a11862a43140": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grandstand.mesh.nasset/Grandstand Trim Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0267beec-83bb-8368-daaa-5b4ac88ac0eb",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "3b0cdfb0-a7a4-eaab-565e-40b0747b7f5d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grandstand Covered.mesh.nasset/Grandstand Covered Glass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0efac695-6d6c-e7d2-2243-48fbe636ee4e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "3b2f409f-7a97-1934-00d7-d6dc75aff1cc": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Formula_EnviroSpecular.tex.nasset"
+    },
+    "3b71020f-f6f7-74ce-9083-5d1a70a0e8d9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Start.mesh.nasset/Road Start Trim Scondary.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "36ac2d08-fbc3-3cae-fd76-31c5df629716",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "3b867ad9-04e4-a377-9c9e-fbdc60c52c1c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner.mesh.nasset/Road Corner.mesh.nasset",
+        "thumbnail": "f492d296-77c9-de15-3088-688f79c8c7c2",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "5074dff2-3148-c4f9-a160-a53995406aee",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "36ac2d08-fbc3-3cae-fd76-31c5df629716",
+            "26a3da00-fd10-7b78-3b0f-b670502ca1f4",
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "91c5c4fc-cd6d-f6ea-3d91-d34c9ec89da8"
+        ]
+    },
+    "3c1fb96a-2c36-2956-5546-6f6415015ab0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Medium.mesh.nasset/Thumbnails/Road Corner Medium.mesh.nasset.tex.nasset"
+    },
+    "3c693495-e002-30ea-c796-063a21e5f9fe": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Start.mesh.nasset/Road Start White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "3d17911b-a4ed-4afd-b480-aedbefd0f13b": {
+        "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
+        "path": "Assets/Player/Player.physmat.nasset"
+    },
+    "3d4f1b8f-b49e-e6e8-6f73-73bc7762d79d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Garage Open.mesh.nasset/Garage Open Default.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d9facafe-a98e-2ff9-6eab-333f2ea180d6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "3e188af4-e352-8634-246a-e3b27cd82850": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grandstand Awning.mesh.nasset/Grandstand Awning Trim Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0267beec-83bb-8368-daaa-5b4ac88ac0eb",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "3eb0324b-f696-0f72-b057-26c715d19dd8": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Ngine.mtli.nasset",
+        "thumbnail": "9ec80d6f-e34d-5f21-1b62-e24f0fa79012",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "b4a0ce0b-831d-418a-575d-a2004b040a53"
+        ]
+    },
+    "434c3bd3-687e-8190-36c7-e96bc7c83c3c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Trim Main.mtli.nasset.tex.nasset"
+    },
+    "4364b03a-c2cb-c332-0a3e-38e6f5546e71": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Common Tree 03.mesh.nasset/Common Tree 03 Green Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "4f4c9fda-26b3-837d-1ae4-d8ab9b4d492e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "4446b5c9-9db6-7aca-33f1-99cc535f7274": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Large.mesh.nasset/Road Corner Large Trim Scondary.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "36ac2d08-fbc3-3cae-fd76-31c5df629716",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "4483b5af-f488-92f2-7e21-93e7e1cd73ee": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Garage Corner.mesh.nasset/Thumbnails/Garage Corner.mesh.nasset.tex.nasset"
+    },
+    "448d49ed-bb2a-e310-a958-b1658d840cce": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Common Tree 02.mesh.nasset/Common Tree 02 Green.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "50d8f313-0b87-59f7-d9c6-4edda96b36ed",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "451ef346-9c62-87bb-7a5b-fa2de1bd7c3a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Large Border.mesh.nasset/Road Corner Large Border White Border.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d5dc7608-f7bb-9ffe-301e-7b8d58807167",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "457df193-1ea2-2130-caf9-5ae05eafa1d5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pit Roof.mesh.nasset/Pit Roof.mesh.nasset",
+        "thumbnail": "a077466d-4738-fd02-f74f-9072712928ce",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "3888d6be-5f07-dd73-4f64-567abd8d700e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "0267beec-83bb-8368-daaa-5b4ac88ac0eb",
+            "d5a8b49e-0638-83c7-d1ad-3bfa9f331291",
+            "0efac695-6d6c-e7d2-2243-48fbe636ee4e",
+            "30e580b9-02c0-0216-fdbc-70e95ab5a71d",
+            "d9facafe-a98e-2ff9-6eab-333f2ea180d6",
+            "be3ee6e9-aa76-b48f-8c67-7b9f92052205"
+        ]
+    },
+    "45c487e3-f03a-0952-a5b3-b3a153a5664d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Racecar/SM_Racecar_Wheel.scene.nasset/Racecar Wheel.mesh.nasset/Racecar Wheel.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "46c57e92-d18d-e538-b494-00a25e5bb5f9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Large Border.mesh.nasset/Road Corner Large Border.mesh.nasset",
+        "thumbnail": "7c142f0f-eddf-3aec-7dbb-5d1513903afe",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "d5dc7608-f7bb-9ffe-301e-7b8d58807167",
+            "451ef346-9c62-87bb-7a5b-fa2de1bd7c3a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "0c8f8a50-6392-07e9-869e-5abee6b37b67",
+            "bf1622ed-d095-b6dd-3e94-6088c525c13a",
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "59cffe65-d72e-7e0b-b4ef-ea0e3bd48dc4",
+            "36ac2d08-fbc3-3cae-fd76-31c5df629716",
+            "2078998a-bf01-75a7-71e5-237a605497f3",
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "7e59c256-befe-ce21-ed0a-4b9c9c4a2aed"
+        ]
+    },
+    "473f3641-2e0e-ca11-959b-a600a4b809ba": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Tent Long.mesh.nasset/Thumbnails/Tent Long.mesh.nasset.tex.nasset"
+    },
+    "476d34b7-e0fb-7c2c-821c-0b3aa0cedde9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Flag Checkered.mesh.nasset/Flag Checkered Checkers.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b7aad9f9-34c4-4a68-7e1e-3518f755a8f6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "48304c7c-0d22-1577-fdae-c5c72c90c5e8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pit Straight.mesh.nasset/Pit Straight Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "48b6dc19-1ab0-1027-ccdf-e47cd35282e7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Common Tree 04.mesh.nasset/Common Tree 04.mesh.nasset",
+        "thumbnail": "bdb9c686-b8df-3275-dcfd-5644178707b5",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "e90e7c9e-c792-25da-2a4d-ec657a0673c1",
+            "cb7f8a90-8692-413f-b9ed-db843e9ae687",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "50d8f313-0b87-59f7-d9c6-4edda96b36ed",
+            "cf83a977-ce6a-a5e7-6fcc-8e17b20417e2",
+            "4f4c9fda-26b3-837d-1ae4-d8ab9b4d492e",
+            "91a4e9f1-588d-a66b-e0b4-53a31b1f3bc5"
+        ]
+    },
+    "49b1ca4f-e904-a724-62b9-c759ef9ca2c3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Straight.mesh.nasset/Road Straight Trim Scondary.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "36ac2d08-fbc3-3cae-fd76-31c5df629716",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "4afdd42f-958b-8ba9-6982-057e2024e2b2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Common Tree 05.mesh.nasset/Common Tree 05 Green.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "50d8f313-0b87-59f7-d9c6-4edda96b36ed",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "4b0379c0-2e36-e2bd-bc26-56edc0232f7f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Straight.mesh.nasset/Road Straight White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "4defb6a2-f67b-16a4-88a2-45ef6f58b126": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Straight.mesh.nasset/Road Straight.mesh.nasset",
+        "thumbnail": "7246faaa-f74e-b851-93bb-ccfe381bf8e9",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "36ac2d08-fbc3-3cae-fd76-31c5df629716",
+            "49b1ca4f-e904-a724-62b9-c759ef9ca2c3",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "4b0379c0-2e36-e2bd-bc26-56edc0232f7f",
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "be913f20-6684-0e39-c00f-9a5fe2fe7006"
+        ]
+    },
+    "4e082a47-a588-8ed8-ad99-5ac923118c58": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Racecar/SM_Racecar.scene.nasset/Racecar.mesh.nasset/Racecar Trim Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "4f016370-a3c3-2dcb-2bb5-08b2f5d7decb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Tower.mesh.nasset/Tower Trim Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0267beec-83bb-8368-daaa-5b4ac88ac0eb",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "4f14ea4b-ae91-19d5-175b-9d5411981883": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Overhead.mesh.nasset/Thumbnails/Overhead.mesh.nasset.tex.nasset"
+    },
+    "4f4c9fda-26b3-837d-1ae4-d8ab9b4d492e": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Green Dark.mtli.nasset",
+        "thumbnail": "618b84c4-f5e1-6093-ba6a-caed8c8a3e28",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "4f98bbdd-e8b6-3793-8473-c9d567d26a30": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Racecar/SM_Racecar.scene.nasset/Racecar.mesh.nasset/Racecar.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "502c6876-d73e-d179-3c47-465e7648fb62": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Lightpost Quad.mesh.nasset/Lightpost Quad Pylon.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "ec2268b9-a52e-1b6f-f6c9-d67cf332ad0f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "5074dff2-3148-c4f9-a160-a53995406aee": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner.mesh.nasset/Road Corner White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "50d8f313-0b87-59f7-d9c6-4edda96b36ed": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Green.mtli.nasset",
+        "thumbnail": "9e2607f3-9fa0-dc34-6aa6-c7facf10cca2",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "513dad72-e741-783f-971e-12879cb3a676": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Medium Border.mesh.nasset/Road Corner Medium Border.mesh.nasset",
+        "thumbnail": "09582b74-921f-8a74-a1ad-5189dcc26ed6",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "d5dc7608-f7bb-9ffe-301e-7b8d58807167",
+            "74c9d640-5e89-63b2-bfd8-5b0eb1dedf79",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "0c8f8a50-6392-07e9-869e-5abee6b37b67",
+            "52375384-0cee-1241-ee12-3902aa8c0fb0"
+        ]
+    },
+    "51a861dd-eda8-f3f0-43fe-884a60ca4958": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Garage Closed.mesh.nasset/Garage Closed Default.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d9facafe-a98e-2ff9-6eab-333f2ea180d6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "51bd8cad-af4d-1b17-80be-7421d75c50f6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pine Tree 03.mesh.nasset/Pine Tree 03 Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "e90e7c9e-c792-25da-2a4d-ec657a0673c1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "51d9842c-fe46-c35c-f80f-44bb24b5c140": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Flag Checkered.mesh.nasset/Thumbnails/Flag Checkered.mesh.nasset.tex.nasset"
+    },
+    "52375384-0cee-1241-ee12-3902aa8c0fb0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Medium Border.mesh.nasset/Road Corner Medium Border Trim Red.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0c8f8a50-6392-07e9-869e-5abee6b37b67",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "541b4745-b2ee-6261-5499-9bc8054cf27b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Tent.mesh.nasset/Thumbnails/Tent.mesh.nasset.tex.nasset"
+    },
+    "5433042e-d91e-1e18-1738-447ea644894d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Tent Long.mesh.nasset/Tent Long Trim Blue.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c61b0c48-0420-012c-8e9f-aa32d445ce36",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "546a6236-3ace-3ac0-55e6-3f48b05dcf2e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Racecar/Material Instances/Thumbnails/Glass.mtli.nasset.tex.nasset"
+    },
+    "54e686ff-5ac1-875a-9911-2adb3c60f3c4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Straight Large.mesh.nasset/Road Straight Large Trim Scondary.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "36ac2d08-fbc3-3cae-fd76-31c5df629716",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "5645e072-e6d2-ddfa-f3a0-05ea4b38f7e1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grandstand.mesh.nasset/Grandstand.mesh.nasset",
+        "thumbnail": "ff4b7d6d-fc72-dbd4-66d8-1c7db52d6c30",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "ec48abbc-9a7a-a267-1df9-e50775089f98",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "d9facafe-a98e-2ff9-6eab-333f2ea180d6",
+            "d4e6ef30-637b-61b6-1c05-14119d5bf970",
+            "0267beec-83bb-8368-daaa-5b4ac88ac0eb",
+            "3acb77a9-dc38-a134-76f6-a11862a43140",
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "bfd141c6-9d9c-200c-3bb6-906bf9ed46ca"
+        ]
+    },
+    "577f0bfd-80b4-f2be-348c-04a7977ed338": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Large Sand.mesh.nasset/Thumbnails/Road Corner Large Sand.mesh.nasset.tex.nasset"
+    },
+    "57958658-443b-c9e9-cec1-cccbab939cf9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Garage Closed.mesh.nasset/Garage Closed Glass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0efac695-6d6c-e7d2-2243-48fbe636ee4e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "57ce8598-4215-fd72-08b5-fdab6ae833ff": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Trim Blue.mtli.nasset.tex.nasset"
+    },
+    "5941bb2d-f2a2-6af7-4578-e9aa93ea5762": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grandstand Awning.mesh.nasset/Thumbnails/Grandstand Awning.mesh.nasset.tex.nasset"
+    },
+    "59cffe65-d72e-7e0b-b4ef-ea0e3bd48dc4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Large Border.mesh.nasset/Road Corner Large Border White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "5a3f18e7-4fe4-48d0-b937-e1ba7c24999b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/M_Skybox.mtli.nasset",
+        "thumbnail": "8bcac5e9-3d51-56dc-992a-a0c38bb6b2e6"
+    },
+    "5b2cc042-73dc-ea84-8f3a-d0adf41a853e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Large.mesh.nasset/Road Corner Large Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "5b702d08-c491-dcc6-844d-a621e2f35cfe": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pit Straight.mesh.nasset/Pit Straight Trim Scondary.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "36ac2d08-fbc3-3cae-fd76-31c5df629716",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "5cf4d1a3-8c06-1380-18e9-59e749352cf6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Metal.mtli.nasset.tex.nasset"
+    },
+    "5f73aa0b-c42f-bf1b-d5d8-c4a27cada08b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Trim Red.mtli.nasset.tex.nasset"
+    },
+    "616087d5-f4f7-a38b-7e2a-2c325ad61718": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Long.mesh.nasset/Road Corner Long Default.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d9facafe-a98e-2ff9-6eab-333f2ea180d6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "618b84c4-f5e1-6093-ba6a-caed8c8a3e28": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Green Dark.mtli.nasset.tex.nasset"
+    },
+    "61e53e43-37ac-2ec4-c11d-d5f431175d6a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pit Road.mesh.nasset/Pit Road White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "62127ab5-858d-f53f-66f2-b4631ddc49bf": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Tent Long.mesh.nasset/Tent Long White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "628aa6cd-73d1-08e4-4b62-2a96c9c5298d": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Bark.mtli.nasset",
+        "thumbnail": "db1b7cbf-a84d-8514-53e8-ac2deade9555",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "64c6f36c-6f0a-f207-8418-5d569b3420c0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Glass.mtli.nasset.tex.nasset"
+    },
+    "65649cac-a53a-16fc-138a-92b158c7ca4a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Checkers.mtli.nasset.tex.nasset"
+    },
+    "65ea44bf-fede-4a6b-6fff-656f90f1fad0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/White Border.mtli.nasset.tex.nasset"
+    },
+    "6745fecd-fff4-c1ac-0604-f1674e147123": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Start.mesh.nasset/Road Start Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "68a0033d-4d1e-3d61-8f8f-74e5135d9f41": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Racecar/SM_Racecar.scene.nasset/SM_Racecar.scene.nasset",
+        "thumbnail": "9e555fec-6bd2-e173-2c42-5f42988ad8f2"
+    },
+    "68c6cb9e-da68-da2a-18c5-50019df1cd8c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Tent Roof.mesh.nasset/Thumbnails/Tent Roof.mesh.nasset.tex.nasset"
+    },
+    "68f76183-d778-cd2b-b427-6f67eae682c4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grandstand Covered.mesh.nasset/Grandstand Covered Trim Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0267beec-83bb-8368-daaa-5b4ac88ac0eb",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "6ac6f337-275c-a6ba-54d5-04c167c263ab": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Flag Checkered.mesh.nasset/Flag Checkered White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "6ac76e34-ac15-6485-12dd-9e2f9b4f33e5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Racecar/Material Instances/Thumbnails/Trim Main.mtli.nasset.tex.nasset"
+    },
+    "6cfc56fc-50c6-c072-5a8a-1c6ca800b8c8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Billboard.mesh.nasset/Thumbnails/Billboard.mesh.nasset.tex.nasset"
+    },
+    "6d2eb7f9-0f4c-ff3e-2a9b-b7da190a291b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pine Tree 04.mesh.nasset/Thumbnails/Pine Tree 04.mesh.nasset.tex.nasset"
+    },
+    "6d941aba-97dd-f843-1c52-252efcd7cc5e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Straight Large.mesh.nasset/Road Straight Large White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "6dfa74f3-2722-cbb4-b7e4-68eda2d057a8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Long.mesh.nasset/Road Corner Long.mesh.nasset",
+        "thumbnail": "d578da64-ca1c-8726-756d-c86e06503dc3",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "d9facafe-a98e-2ff9-6eab-333f2ea180d6",
+            "616087d5-f4f7-a38b-7e2a-2c325ad61718",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "36ac2d08-fbc3-3cae-fd76-31c5df629716",
+            "9ca8e3b3-eed6-ab8d-f750-d84d6542683f",
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "0dadb956-c920-f6c0-f132-f583aec9fce2"
+        ]
+    },
+    "6f19f74a-a832-5bee-96b4-1f1f8d44054c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Tent.mesh.nasset/Tent Trim Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0267beec-83bb-8368-daaa-5b4ac88ac0eb",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "6f4fa474-8ddb-03a1-ae30-6be57d40382a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Garage Open.mesh.nasset/Garage Open White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7144a524-ed70-2194-5360-a0e13715a75e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Trim Scondary.mtli.nasset.tex.nasset"
+    },
+    "715993e6-e6ab-3b19-c6e0-b44cac0c2afc": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Sun.mesh.nasset/Sun Material.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b48653fd-3fcf-3730-8cfe-045cdd02cb10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7246faaa-f74e-b851-93bb-ccfe381bf8e9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Straight.mesh.nasset/Thumbnails/Road Straight.mesh.nasset.tex.nasset"
+    },
+    "733ed368-0333-6d21-9732-2b4e93a50079": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Grass.mtli.nasset.tex.nasset"
+    },
+    "7371cc7e-79eb-a5ba-7907-6c5f0de886bd": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Garage Corner.mesh.nasset/Garage Corner Default.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d9facafe-a98e-2ff9-6eab-333f2ea180d6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "74c9d640-5e89-63b2-bfd8-5b0eb1dedf79": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Medium Border.mesh.nasset/Road Corner Medium Border White Border.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d5dc7608-f7bb-9ffe-301e-7b8d58807167",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "75bdbee9-94d0-bdb5-d15f-9c487d0ad7fe": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Large.mesh.nasset/Road Corner Large Trim Red.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0c8f8a50-6392-07e9-869e-5abee6b37b67",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7612280e-d970-5669-cbfb-bdb096b26232": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Straight Large.mesh.nasset/Thumbnails/Road Straight Large.mesh.nasset.tex.nasset"
+    },
+    "763ff194-4647-42f0-267f-0a6aa059d1a1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Tent Closed.mesh.nasset/Tent Closed Trim Scondary.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "36ac2d08-fbc3-3cae-fd76-31c5df629716",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "765bdcaa-1b89-eb98-b1ab-05af49561b58": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pine Tree 02.mesh.nasset/Thumbnails/Pine Tree 02.mesh.nasset.tex.nasset"
+    },
+    "771598a7-180e-5a9d-b752-788f02e5584d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Lightpost.mesh.nasset/Lightpost Pylon.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "ec2268b9-a52e-1b6f-f6c9-d67cf332ad0f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "77b82a08-c229-863d-7bee-e91838c926fe": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Garage Corner.mesh.nasset/Garage Corner Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "795c007d-306e-1552-c8eb-44709d74b5ce": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Garage Open.mesh.nasset/Garage Open.mesh.nasset",
+        "thumbnail": "bb24cb77-e62d-a1e8-1652-63436f2ed1a3",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "6f4fa474-8ddb-03a1-ae30-6be57d40382a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "d9facafe-a98e-2ff9-6eab-333f2ea180d6",
+            "3d4f1b8f-b49e-e6e8-6f73-73bc7762d79d",
+            "3eb0324b-f696-0f72-b057-26c715d19dd8",
+            "2473c103-8038-f5dc-9819-41284ff27e37",
+            "0267beec-83bb-8368-daaa-5b4ac88ac0eb",
+            "c7a43d12-ea94-64a5-b691-d0220ed874a9"
+        ]
+    },
+    "7b557eca-e487-84a3-cedd-d3eee831d636": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Textures/T_Skybox_D.tex.nasset"
+    },
+    "7b5b17cf-df63-be62-8305-ab84c7489fe6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Trim Yellow.mtli.nasset.tex.nasset"
+    },
+    "7c142f0f-eddf-3aec-7dbb-5d1513903afe": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Large Border.mesh.nasset/Thumbnails/Road Corner Large Border.mesh.nasset.tex.nasset"
+    },
+    "7c7781a1-4223-e58b-9fff-dbae3b42c1d3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Tower.mesh.nasset/Tower Default.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d9facafe-a98e-2ff9-6eab-333f2ea180d6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7c7d0d6f-23e7-62b6-f201-d221026f600f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Tent Roof.mesh.nasset/Tent Roof.mesh.nasset",
+        "thumbnail": "68c6cb9e-da68-da2a-18c5-50019df1cd8c",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "9b7e8832-115b-d235-c8a1-610f40f68ad0",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "36ac2d08-fbc3-3cae-fd76-31c5df629716",
+            "a1aa38a7-c047-598e-c9d2-81dfcaa3384a"
+        ]
+    },
+    "7ca04172-cccf-848c-8836-727ac6b935b4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Satellite.mesh.nasset/Thumbnails/Satellite.mesh.nasset.tex.nasset"
+    },
+    "7dd9da01-e576-8a61-50d9-b558825bb31b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Satellite.mesh.nasset/Satellite.mesh.nasset",
+        "thumbnail": "7ca04172-cccf-848c-8836-727ac6b935b4",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "e6d6f896-8dbf-e687-835f-d04e23d700e7",
+            "c3613184-6fff-53ff-6a55-272fb11cacad",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "dac59f76-2815-7de7-6f89-a2e560fc0a3d"
+        ]
+    },
+    "7e59c256-befe-ce21-ed0a-4b9c9c4a2aed": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Large Border.mesh.nasset/Road Corner Large Border Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "81bf6930-c6a7-fec3-1dce-6ecd75158561": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grandstand Round.mesh.nasset/Grandstand Round White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "81da670a-85a6-166c-d1dc-18c90705e184": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Straight Large.mesh.nasset/Road Straight Large Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "82e1080e-66d1-3e49-d5c8-306c907abdb5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grass 02.mesh.nasset/Thumbnails/Grass 02.mesh.nasset.tex.nasset"
+    },
+    "83bc8b9e-3dd8-f120-3b31-0a8fdb1e4526": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Racecar/Material Instances/Trim Main.mtli.nasset",
+        "thumbnail": "6ac76e34-ac15-6485-12dd-9e2f9b4f33e5"
+    },
+    "84229edf-e660-b685-1ce5-090e17609aa4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Overhead Large.mesh.nasset/Thumbnails/Overhead Large.mesh.nasset.tex.nasset"
+    },
+    "84c284e9-9577-464f-daa6-f507f830bfa8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Racecar/Material Instances/Thumbnails/White.001.mtli.nasset.tex.nasset"
+    },
+    "860ed436-0dce-fee6-bed6-4148446d88e6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pine Tree 05.mesh.nasset/Thumbnails/Pine Tree 05.mesh.nasset.tex.nasset"
+    },
+    "86d49ee4-1ecd-c30c-b027-eeb03411e88d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Ground Large.mesh.nasset/Ground Large Grass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "fefb64cd-fc1f-31a7-96ca-aeffcb11df56",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8733a90d-627d-9980-d891-55f9a7a1ee45": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Sand.mtli.nasset",
+        "thumbnail": "01647878-1fec-8c5c-e215-fa39caed1abb",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "88564bdf-a1a3-9bd8-2c2b-a1a459923b59": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Trim Yellow.mtli.nasset",
+        "thumbnail": "7b5b17cf-df63-be62-8305-ab84c7489fe6",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "88a8415b-5786-2d9b-8353-3b1466043715": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Common Tree 01.mesh.nasset/Common Tree 01 Green.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "50d8f313-0b87-59f7-d9c6-4edda96b36ed",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8abded2c-a937-7621-aa80-abf4d5b6b7cd": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Banner.mesh.nasset/Banner Default.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d9facafe-a98e-2ff9-6eab-333f2ea180d6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8b0bf628-7165-f4c8-2d7d-5d88b256c9c4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Large Sand.mesh.nasset/Road Corner Large Sand Sand.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "8733a90d-627d-9980-d891-55f9a7a1ee45",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8c8be015-7fdf-49b4-de7c-33bcef08772b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pine Tree 01.mesh.nasset/Pine Tree 01 Green.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "50d8f313-0b87-59f7-d9c6-4edda96b36ed",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8cb2ffcf-ebd6-e44f-72a1-9f6bf61549aa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Overhead.mesh.nasset/Overhead.mesh.nasset",
+        "thumbnail": "4f14ea4b-ae91-19d5-175b-9d5411981883",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "283cb16e-1c99-656e-0825-f21f773a96e7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8d9b26a6-eca1-a34c-b736-b99dbf24de10": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Large Outer.mesh.nasset/Road Corner Large Outer White Border.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d5dc7608-f7bb-9ffe-301e-7b8d58807167",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8f04ee5d-3868-68cd-d2a1-38b489d8b5a0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Billboard.mesh.nasset/Billboard.mesh.nasset",
+        "thumbnail": "6cfc56fc-50c6-c072-5a8a-1c6ca800b8c8",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "628aa6cd-73d1-08e4-4b62-2a96c9c5298d",
+            "ed202903-6118-f7ba-8bc6-5ea809994338",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "f2d21870-789a-9363-6bc2-6ceb61ea550c",
+            "3eb0324b-f696-0f72-b057-26c715d19dd8",
+            "a89d6d3e-cb31-3d6d-d79e-712355f298ee",
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "ba685668-a915-3761-aefa-5c9c678c5025"
+        ]
+    },
+    "90248c64-942b-ae6b-d05f-fa52bfdc417d": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Dirt.mtli.nasset",
+        "thumbnail": "f7c4b185-e5be-aa33-74df-faa46115c41e",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "91a4e9f1-588d-a66b-e0b4-53a31b1f3bc5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Common Tree 04.mesh.nasset/Common Tree 04 Green Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "4f4c9fda-26b3-837d-1ae4-d8ab9b4d492e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "91c5c4fc-cd6d-f6ea-3d91-d34c9ec89da8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner.mesh.nasset/Road Corner Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9208a633-8528-b88e-ada4-7a4c4947cdf1": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Racecar/Material Instances/Tire.001.mtli.nasset",
+        "thumbnail": "172f2d53-a0b7-de47-5c63-75925ee4e548"
+    },
+    "9328390c-326a-4f51-ba65-6cfe644b836a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Barrier Wall.mesh.nasset/Thumbnails/Barrier Wall.mesh.nasset.tex.nasset"
+    },
+    "9355c057-10cd-bc93-cfa8-f95c864928ff": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Ground Large.mesh.nasset/Thumbnails/Ground Large.mesh.nasset.tex.nasset"
+    },
+    "93ae0b03-879c-6dbf-0546-46a6a49aeef4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Large.mesh.nasset/Road Corner Large White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "942075c8-8909-f2b9-18c6-d995ab770ad5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pine Tree 04.mesh.nasset/Pine Tree 04 Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "e90e7c9e-c792-25da-2a4d-ec657a0673c1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "946b5e0d-0840-496c-9a94-5942b377ecb6": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Player/Player4WD.scene.nasset"
+    },
+    "94f70936-dc5b-9131-a776-df3e6d11d78e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pit Road.mesh.nasset/Pit Road Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "95a73340-5590-7231-ec5f-ef224a1965a4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grass 03.mesh.nasset/Thumbnails/Grass 03.mesh.nasset.tex.nasset"
+    },
+    "963b3773-fda5-e827-ed8f-703dcda341f0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pit Entry.mesh.nasset/Thumbnails/Pit Entry.mesh.nasset.tex.nasset"
+    },
+    "96887ddf-7b72-d5d2-a1c6-e2099c9c891d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Pavement.mtli.nasset.tex.nasset"
+    },
+    "97251675-e40b-dfde-36d5-d8360534bc8f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Racecar/Material Instances/White.mtli.nasset"
+    },
+    "97d880ba-1d22-506c-47b1-b5c8d6815493": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Racecar/SM_Racecar_Wheel.scene.nasset/Racecar Wheel.mesh.nasset/Racecar Wheel Tire.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "97fca62f-7191-aa47-896f-1ddd51a7a2ef": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Garage Corner.mesh.nasset/Garage Corner.mesh.nasset",
+        "thumbnail": "4483b5af-f488-92f2-7e21-93e7e1cd73ee",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "ce0f6202-5653-6a52-6365-a7aeb99532f7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "d9facafe-a98e-2ff9-6eab-333f2ea180d6",
+            "7371cc7e-79eb-a5ba-7907-6c5f0de886bd",
+            "0267beec-83bb-8368-daaa-5b4ac88ac0eb",
+            "c1081763-e92a-8003-2e35-d9673cca8148",
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "77b82a08-c229-863d-7bee-e91838c926fe",
+            "0efac695-6d6c-e7d2-2243-48fbe636ee4e",
+            "f55f4031-0e96-8315-6fc0-804d526c8da6"
+        ]
+    },
+    "9a440df6-5a4b-ef35-6786-58a35f0a62ab": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Formula_EnviroDiffuse.tex.nasset"
+    },
+    "9b023efe-d542-7324-7c45-23f25eba0a81": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Racecar/Material Instances/Tire.mtli.nasset",
+        "thumbnail": "3a27ad0b-1260-907a-cd67-6bebf22cb60e"
+    },
+    "9b63f74b-3bef-3b90-5ea3-64c07c86dd3f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pine Tree 01.mesh.nasset/Pine Tree 01 Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "e90e7c9e-c792-25da-2a4d-ec657a0673c1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9b7e8832-115b-d235-c8a1-610f40f68ad0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Tent Roof.mesh.nasset/Tent Roof White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9c79b5e8-21ac-3087-dfd6-5d9dfd4acc07": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grandstand Round.mesh.nasset/Thumbnails/Grandstand Round.mesh.nasset.tex.nasset"
+    },
+    "9ca8e3b3-eed6-ab8d-f750-d84d6542683f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Long.mesh.nasset/Road Corner Long Trim Scondary.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "36ac2d08-fbc3-3cae-fd76-31c5df629716",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9cd73a8f-54b8-8c93-f460-c271bee25b90": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pit Road.mesh.nasset/Pit Road.mesh.nasset",
+        "thumbnail": "0d396fdf-ca11-fa2c-7d1c-3b988111cb25",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "61e53e43-37ac-2ec4-c11d-d5f431175d6a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "94f70936-dc5b-9131-a776-df3e6d11d78e",
+            "36ac2d08-fbc3-3cae-fd76-31c5df629716",
+            "a58269a5-4275-a1b9-010b-92e8ef6d4161"
+        ]
+    },
+    "9e14e198-8d6a-b0b3-785b-ed970f999e8d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Cone.mesh.nasset/Cone.mesh.nasset",
+        "thumbnail": "2373b1bc-1f12-30a6-c309-9b9ab07a4b3b",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "ec2268b9-a52e-1b6f-f6c9-d67cf332ad0f",
+            "f493b16f-808e-6739-7069-5cadd25cd3e8",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9e1b6891-0da7-d0d7-2693-d43aa48ffc1b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Overhead Large.mesh.nasset/Overhead Large Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9e2607f3-9fa0-dc34-6aa6-c7facf10cca2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Green.mtli.nasset.tex.nasset"
+    },
+    "9e555fec-6bd2-e173-2c42-5f42988ad8f2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Racecar/SM_Racecar.scene.nasset/Thumbnails/SM_Racecar.scene.nasset.tex.nasset"
+    },
+    "9eb2feb8-08c3-23b1-2eb0-5cb7f3552ee9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Common Tree 01.mesh.nasset/Common Tree 01 Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "e90e7c9e-c792-25da-2a4d-ec657a0673c1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9ec80d6f-e34d-5f21-1b62-e24f0fa79012": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Ngine.mtli.nasset.tex.nasset"
+    },
+    "9ee85659-535f-4ee5-66e4-d5c8e8cb3750": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Large Outer.mesh.nasset/Thumbnails/Road Corner Large Outer.mesh.nasset.tex.nasset"
+    },
+    "9f84568d-6567-1714-8f70-731bb3e591dc": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Large Sand.mesh.nasset/Road Corner Large Sand Trim Scondary.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "36ac2d08-fbc3-3cae-fd76-31c5df629716",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "a077466d-4738-fd02-f74f-9072712928ce": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pit Roof.mesh.nasset/Thumbnails/Pit Roof.mesh.nasset.tex.nasset"
+    },
+    "a0d4821d-f43d-921f-8f51-8415eaf3ee3d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Barrier Single.mesh.nasset/Thumbnails/Barrier Single.mesh.nasset.tex.nasset"
+    },
+    "a1aa38a7-c047-598e-c9d2-81dfcaa3384a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Tent Roof.mesh.nasset/Tent Roof Trim Scondary.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "36ac2d08-fbc3-3cae-fd76-31c5df629716",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "a58269a5-4275-a1b9-010b-92e8ef6d4161": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pit Road.mesh.nasset/Pit Road Trim Scondary.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "36ac2d08-fbc3-3cae-fd76-31c5df629716",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "a89d6d3e-cb31-3d6d-d79e-712355f298ee": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Billboard.mesh.nasset/Billboard Ngine.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "3eb0324b-f696-0f72-b057-26c715d19dd8",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "aa7dad16-781b-86ed-a315-c8f8b474fc7d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pit Straight.mesh.nasset/Pit Straight White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ab0e8c12-a637-512d-0aa8-a68d65a7bd7a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pit Entry.mesh.nasset/Pit Entry Trim Scondary.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "36ac2d08-fbc3-3cae-fd76-31c5df629716",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "abb6f538-88ac-4366-70c1-9a611374afec": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Ground Tile.mesh.nasset/Ground Tile.mesh.nasset",
+        "thumbnail": "f3b3f56f-14dd-6f9c-f3a9-367509f9fddc",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "fefb64cd-fc1f-31a7-96ca-aeffcb11df56",
+            "d3d8fbde-415d-80c0-3d00-fd53d9286a88",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "90248c64-942b-ae6b-d05f-fa52bfdc417d",
+            "d9c50d3d-42ff-a844-e210-fb823c89fe08"
+        ]
+    },
+    "af7a553c-b81d-7bab-d25f-a4c18707ec19": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Racecar/Material Instances/White.001.mtli.nasset",
+        "thumbnail": "84c284e9-9577-464f-daa6-f507f830bfa8"
+    },
+    "afe51aec-1b34-a252-80c0-1efc4c540903": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Tent.mesh.nasset/Tent.mesh.nasset",
+        "thumbnail": "541b4745-b2ee-6261-5499-9bc8054cf27b",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0267beec-83bb-8368-daaa-5b4ac88ac0eb",
+            "6f19f74a-a832-5bee-96b4-1f1f8d44054c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "d4251d50-583f-8df6-db3b-bd27b7d7e787"
+        ]
+    },
+    "b0d3ca46-a158-4e41-c4e6-ac641f31b1c2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Barrier Wall.mesh.nasset/Barrier Wall Trim Yellow.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "88564bdf-a1a3-9bd8-2c2b-a1a459923b59",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "b0f98d54-e2f6-5104-21a4-de19d4fdaeee": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Common Tree 03.mesh.nasset/Thumbnails/Common Tree 03.mesh.nasset.tex.nasset"
+    },
+    "b19aab21-ecdb-b152-ee79-cd56b46456dc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grandstand Awning.mesh.nasset/Grandstand Awning.mesh.nasset",
+        "thumbnail": "5941bb2d-f2a2-6af7-4578-e9aa93ea5762",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "0d0b937e-ca8c-4fa6-61e6-6e0de1b5f7b1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "0267beec-83bb-8368-daaa-5b4ac88ac0eb",
+            "3e188af4-e352-8634-246a-e3b27cd82850",
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "f1d35e7d-1b74-e8b2-b960-d34c7f73ea31"
+        ]
+    },
+    "b1c5008e-d2fd-5f11-e04e-0b0a054a1a0c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pit Office.mesh.nasset/Pit Office.mesh.nasset",
+        "thumbnail": "da629434-119f-2f56-6425-2d50d2655522",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "ff7b374a-341d-6785-7787-bbd79bfb9a72",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "0efac695-6d6c-e7d2-2243-48fbe636ee4e",
+            "c2df9179-55b8-2dbf-38c3-94c2dcc13359",
+            "0267beec-83bb-8368-daaa-5b4ac88ac0eb",
+            "0af02b69-48c3-cd9b-5b8f-1ec57c63cd63"
+        ]
+    },
+    "b20478dc-6ffd-aec6-32e7-6429a065fe1e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pine Tree 03.mesh.nasset/Pine Tree 03.mesh.nasset",
+        "thumbnail": "33ca27f0-c7a4-128f-8419-c5f30cbbab1d",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "e90e7c9e-c792-25da-2a4d-ec657a0673c1",
+            "51bd8cad-af4d-1b17-80be-7421d75c50f6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "50d8f313-0b87-59f7-d9c6-4edda96b36ed",
+            "bf46141e-4d0e-78fd-07cf-e04871c79f08"
+        ]
+    },
+    "b2bc922a-5d01-8b0a-9926-5bdaaebf6a28": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Common Tree 05.mesh.nasset/Thumbnails/Common Tree 05.mesh.nasset.tex.nasset"
+    },
+    "b2ea5434-36fc-43db-b178-90bea6dbb6d5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Large.mesh.nasset/Road Corner Large White Border.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d5dc7608-f7bb-9ffe-301e-7b8d58807167",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "b32780d8-ae5f-4bc8-5400-89d7cb350837": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Common Tree 05.mesh.nasset/Common Tree 05.mesh.nasset",
+        "thumbnail": "b2bc922a-5d01-8b0a-9926-5bdaaebf6a28",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "e90e7c9e-c792-25da-2a4d-ec657a0673c1",
+            "e5a83c88-0e54-f009-413a-b6a97106c942",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "50d8f313-0b87-59f7-d9c6-4edda96b36ed",
+            "4afdd42f-958b-8ba9-6982-057e2024e2b2"
+        ]
+    },
+    "b48653fd-3fcf-3730-8cfe-045cdd02cb10": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Material.mtli.nasset",
+        "thumbnail": "2c97395f-f17f-31e6-f982-1af2d921bf3c",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "b4a0ce0b-831d-418a-575d-a2004b040a53": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Textures/T_Ngine_D.tex.nasset"
+    },
+    "b549da7e-4d2e-1a34-1e0b-b32a373a427a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Banner.mesh.nasset/Banner Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "b597007d-47ee-0ecb-9fed-b8e9d5b4d210": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pine Tree 05.mesh.nasset/Pine Tree 05 Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "e90e7c9e-c792-25da-2a4d-ec657a0673c1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "b5c9e115-a90b-5091-b390-ec8b84b22ea3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Formula_Enviro.tex.nasset"
+    },
+    "b6d95d5b-7d8c-9e4d-eaa9-e636caeed34a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Lightpost Quad.mesh.nasset/Lightpost Quad.mesh.nasset",
+        "thumbnail": "feb1ceef-7d4d-3902-397c-48a0a2a8ca5b",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "d9facafe-a98e-2ff9-6eab-333f2ea180d6",
+            "0e8bc235-b29e-79e8-ea4a-4a2a811059b5",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "c5425577-d4af-5d21-4042-2899d7c5a4a8",
+            "ec2268b9-a52e-1b6f-f6c9-d67cf332ad0f",
+            "502c6876-d73e-d179-3c47-465e7648fb62"
+        ]
+    },
+    "b7aad9f9-34c4-4a68-7e1e-3518f755a8f6": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Checkers.mtli.nasset",
+        "thumbnail": "65649cac-a53a-16fc-138a-92b158c7ca4a",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "015fa776-5637-c8ff-aa6f-1a6ef063f426"
+        ]
+    },
+    "ba685668-a915-3761-aefa-5c9c678c5025": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Billboard.mesh.nasset/Billboard White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "baa5cc35-d743-312d-66fd-cb997e09c69b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grandstand Covered.mesh.nasset/Grandstand Covered Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "bb24cb77-e62d-a1e8-1652-63436f2ed1a3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Garage Open.mesh.nasset/Thumbnails/Garage Open.mesh.nasset.tex.nasset"
+    },
+    "bbf04579-0a76-e4a3-0cfb-93e6d065e02e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grandstand Round.mesh.nasset/Grandstand Round Default.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d9facafe-a98e-2ff9-6eab-333f2ea180d6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "bdac3aa2-175a-659b-ba7b-fcb76ecc8d4a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grandstand Covered.mesh.nasset/Grandstand Covered.mesh.nasset",
+        "thumbnail": "0489d78b-590d-c215-706c-54d3e7abbeac",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "c2aedcd0-47b7-e6ce-4d9d-e8f4e613916b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "d9facafe-a98e-2ff9-6eab-333f2ea180d6",
+            "da66ab77-188a-352c-4b6c-be1d31673847",
+            "0267beec-83bb-8368-daaa-5b4ac88ac0eb",
+            "68f76183-d778-cd2b-b427-6f67eae682c4",
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "baa5cc35-d743-312d-66fd-cb997e09c69b",
+            "0efac695-6d6c-e7d2-2243-48fbe636ee4e",
+            "3b0cdfb0-a7a4-eaab-565e-40b0747b7f5d"
+        ]
+    },
+    "bdb9c686-b8df-3275-dcfd-5644178707b5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Common Tree 04.mesh.nasset/Thumbnails/Common Tree 04.mesh.nasset.tex.nasset"
+    },
+    "bde546ed-6920-d6ea-78f0-fc081fb50921": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Banner.mesh.nasset/Banner Bark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "628aa6cd-73d1-08e4-4b62-2a96c9c5298d",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "bdfb01cf-6797-8115-11b0-5a98fc685e79": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Pavement.mtli.nasset",
+        "thumbnail": "96887ddf-7b72-d5d2-a1c6-e2099c9c891d",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "be2fa64f-10cf-2605-91b4-d63243f653ce": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Common Tree 03.mesh.nasset/Common Tree 03 Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "e90e7c9e-c792-25da-2a4d-ec657a0673c1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "be3ee6e9-aa76-b48f-8c67-7b9f92052205": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pit Roof.mesh.nasset/Pit Roof Default.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d9facafe-a98e-2ff9-6eab-333f2ea180d6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "be913f20-6684-0e39-c00f-9a5fe2fe7006": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Straight.mesh.nasset/Road Straight Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "beabda8c-89ce-be16-d9ff-13ece7aff0b6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Common Tree 01.mesh.nasset/Thumbnails/Common Tree 01.mesh.nasset.tex.nasset"
+    },
+    "bf1622ed-d095-b6dd-3e94-6088c525c13a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Large Border.mesh.nasset/Road Corner Large Border Trim Red.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0c8f8a50-6392-07e9-869e-5abee6b37b67",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "bf46141e-4d0e-78fd-07cf-e04871c79f08": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pine Tree 03.mesh.nasset/Pine Tree 03 Green.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "50d8f313-0b87-59f7-d9c6-4edda96b36ed",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "bfd141c6-9d9c-200c-3bb6-906bf9ed46ca": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grandstand.mesh.nasset/Grandstand Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c1081763-e92a-8003-2e35-d9673cca8148": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Garage Corner.mesh.nasset/Garage Corner Trim Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0267beec-83bb-8368-daaa-5b4ac88ac0eb",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c29d3b86-3ddd-4839-a5f4-300b745ce042": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Racecar/Material Instances/Trim Main 4WD.mtli.nasset",
+        "thumbnail": "6ac76e34-ac15-6485-12dd-9e2f9b4f33e5"
+    },
+    "c2aedcd0-47b7-e6ce-4d9d-e8f4e613916b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grandstand Covered.mesh.nasset/Grandstand Covered White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c2df9179-55b8-2dbf-38c3-94c2dcc13359": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pit Office.mesh.nasset/Pit Office Glass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0efac695-6d6c-e7d2-2243-48fbe636ee4e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c32ffc99-4531-6dc8-615d-60ffed10d038": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Garage Closed.mesh.nasset/Garage Closed.mesh.nasset",
+        "thumbnail": "c3fe39a9-beef-ead7-faea-ecdbfbd126b4",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "09eccb0f-85ad-d802-caaa-efde6241c4ee",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "d9facafe-a98e-2ff9-6eab-333f2ea180d6",
+            "51a861dd-eda8-f3f0-43fe-884a60ca4958",
+            "3eb0324b-f696-0f72-b057-26c715d19dd8",
+            "ca8c174a-5e1f-5492-453b-2e0cdb7b1677",
+            "0267beec-83bb-8368-daaa-5b4ac88ac0eb",
+            "f81ed289-ab27-58d8-9ecc-bd20df6ddea9",
+            "0efac695-6d6c-e7d2-2243-48fbe636ee4e",
+            "57958658-443b-c9e9-cec1-cccbab939cf9"
+        ]
+    },
+    "c3613184-6fff-53ff-6a55-272fb11cacad": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Satellite.mesh.nasset/Satellite Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "e6d6f896-8dbf-e687-835f-d04e23d700e7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c398c964-fcf8-c314-a09b-d829fa0efb0d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Racecar/SM_Racecar.scene.nasset/Racecar.mesh.nasset/Racecar Glass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "c3fe39a9-beef-ead7-faea-ecdbfbd126b4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Garage Closed.mesh.nasset/Thumbnails/Garage Closed.mesh.nasset.tex.nasset"
+    },
+    "c4324a99-24b4-78fc-4548-09681446fe9e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Barrier Wall.mesh.nasset/Barrier Wall.mesh.nasset",
+        "thumbnail": "9328390c-326a-4f51-ba65-6cfe644b836a",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "e1d65e8a-b006-51a5-516b-2fd4e4259b17",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "88564bdf-a1a3-9bd8-2c2b-a1a459923b59",
+            "b0d3ca46-a158-4e41-c4e6-ac641f31b1c2"
+        ]
+    },
+    "c52670ae-9c2f-b74d-5564-0b0897884631": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Pylon.mtli.nasset.tex.nasset"
+    },
+    "c5425577-d4af-5d21-4042-2899d7c5a4a8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Lightpost Quad.mesh.nasset/Lightpost Quad White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c58441fa-6bbc-46a2-37ea-6ef68dca80f9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Medium.mesh.nasset/Road Corner Medium.mesh.nasset",
+        "thumbnail": "3c1fb96a-2c36-2956-5546-6f6415015ab0",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "da5b1033-758e-8d47-91a7-74e2496699b5",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "36ac2d08-fbc3-3cae-fd76-31c5df629716",
+            "f597acb3-b29c-78fb-00d3-21d09860fe16",
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "2096ceaa-3109-0c0b-2f26-f8f98d40af05"
+        ]
+    },
+    "c61b0c48-0420-012c-8e9f-aa32d445ce36": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Trim Blue.mtli.nasset",
+        "thumbnail": "57ce8598-4215-fd72-08b5-fdab6ae833ff",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "c66134f7-c165-8513-47ea-d39fd4ef96b5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Banner.mesh.nasset/Banner.mesh.nasset",
+        "thumbnail": "15f6e71b-5567-dd6b-21a7-1d2f1bac6b28",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "1e0d3474-6754-677d-d6ba-6346aa435ef9",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "b549da7e-4d2e-1a34-1e0b-b32a373a427a",
+            "628aa6cd-73d1-08e4-4b62-2a96c9c5298d",
+            "bde546ed-6920-d6ea-78f0-fc081fb50921",
+            "d9facafe-a98e-2ff9-6eab-333f2ea180d6",
+            "8abded2c-a937-7621-aa80-abf4d5b6b7cd",
+            "3eb0324b-f696-0f72-b057-26c715d19dd8",
+            "f7d405d9-aa98-2481-5731-eb5b52600543"
+        ]
+    },
+    "c78e249a-48df-98a3-9499-2a490d192c83": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grass 01.mesh.nasset/Grass 01.mesh.nasset",
+        "thumbnail": "fd029beb-9f46-8642-163e-4fdf10390509",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "50d8f313-0b87-59f7-d9c6-4edda96b36ed",
+            "ce1c3d90-8e08-16fc-b1ed-423ea05edafb",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c7a43d12-ea94-64a5-b691-d0220ed874a9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Garage Open.mesh.nasset/Garage Open Trim Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0267beec-83bb-8368-daaa-5b4ac88ac0eb",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c8009de7-7778-3f46-5f47-61a2706c4d94": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Racecar/SM_Racecar_Wheel.scene.nasset/Racecar Wheel.mesh.nasset/Racecar Wheel White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "c986b33c-9a61-4f29-6cfa-85d28dc5e6f5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Barrier Single.mesh.nasset/Barrier Single Trim Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0267beec-83bb-8368-daaa-5b4ac88ac0eb",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ca031746-d321-4a2b-115c-f3006667190f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pit Exit.mesh.nasset/Thumbnails/Pit Exit.mesh.nasset.tex.nasset"
+    },
+    "ca8c174a-5e1f-5492-453b-2e0cdb7b1677": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Garage Closed.mesh.nasset/Garage Closed Ngine.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "3eb0324b-f696-0f72-b057-26c715d19dd8",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "cb61b44b-3ace-98fe-61bb-b4d9a19c3505": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Large Sand.mesh.nasset/Road Corner Large Sand Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "cb7f8a90-8692-413f-b9ed-db843e9ae687": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Common Tree 04.mesh.nasset/Common Tree 04 Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "e90e7c9e-c792-25da-2a4d-ec657a0673c1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "cdf7fb7a-eb86-298e-330c-2ebcac3806ac": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pit Exit.mesh.nasset/Pit Exit.mesh.nasset",
+        "thumbnail": "ca031746-d321-4a2b-115c-f3006667190f",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "1ce1bd1a-a1cd-a7c1-93a8-d52051c08f6c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "36ac2d08-fbc3-3cae-fd76-31c5df629716",
+            "d9a0ca84-4044-e0c1-f26d-20dafa86efb2",
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "eba90897-7c03-7784-f6c5-6e0c59129f3c"
+        ]
+    },
+    "ce0f6202-5653-6a52-6365-a7aeb99532f7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Garage Corner.mesh.nasset/Garage Corner White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ce1c3d90-8e08-16fc-b1ed-423ea05edafb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grass 01.mesh.nasset/Grass 01 Green.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "50d8f313-0b87-59f7-d9c6-4edda96b36ed",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "cebf2682-67a5-9fb6-e7a9-7c89a4a3eb86": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pine Tree 04.mesh.nasset/Pine Tree 04 Green.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "50d8f313-0b87-59f7-d9c6-4edda96b36ed",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "cf83a977-ce6a-a5e7-6fcc-8e17b20417e2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Common Tree 04.mesh.nasset/Common Tree 04 Green.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "50d8f313-0b87-59f7-d9c6-4edda96b36ed",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d09ca5f1-e2ea-1bfb-8644-584c1f60c900": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Common Tree 03.mesh.nasset/Common Tree 03 Green.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "50d8f313-0b87-59f7-d9c6-4edda96b36ed",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d34b8018-d59d-2c03-09b7-95019ee63c31": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grass 03.mesh.nasset/Grass 03.mesh.nasset",
+        "thumbnail": "95a73340-5590-7231-ec5f-ef224a1965a4",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "50d8f313-0b87-59f7-d9c6-4edda96b36ed",
+            "138a8333-e3e8-2454-2b37-8f220b283612",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d3d8fbde-415d-80c0-3d00-fd53d9286a88": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Ground Tile.mesh.nasset/Ground Tile Grass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "fefb64cd-fc1f-31a7-96ca-aeffcb11df56",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d4251d50-583f-8df6-db3b-bd27b7d7e787": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Tent.mesh.nasset/Tent White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d4e6ef30-637b-61b6-1c05-14119d5bf970": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grandstand.mesh.nasset/Grandstand Default.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d9facafe-a98e-2ff9-6eab-333f2ea180d6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d552462f-0e51-24be-7d21-e0f188829a85": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pine Tree 05.mesh.nasset/Pine Tree 05.mesh.nasset",
+        "thumbnail": "860ed436-0dce-fee6-bed6-4148446d88e6",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "e90e7c9e-c792-25da-2a4d-ec657a0673c1",
+            "b597007d-47ee-0ecb-9fed-b8e9d5b4d210",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "50d8f313-0b87-59f7-d9c6-4edda96b36ed",
+            "147a1958-00d7-9367-6c5c-ee628cb499c5"
+        ]
+    },
+    "d578da64-ca1c-8726-756d-c86e06503dc3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Long.mesh.nasset/Thumbnails/Road Corner Long.mesh.nasset.tex.nasset"
+    },
+    "d5a8b49e-0638-83c7-d1ad-3bfa9f331291": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pit Roof.mesh.nasset/Pit Roof Trim Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0267beec-83bb-8368-daaa-5b4ac88ac0eb",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d5b4edff-746c-b4f7-fca2-0c7721c3c462": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Wood.mtli.nasset.tex.nasset"
+    },
+    "d5dc7608-f7bb-9ffe-301e-7b8d58807167": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/White Border.mtli.nasset",
+        "thumbnail": "65ea44bf-fede-4a6b-6fff-656f90f1fad0",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "d72547d1-10b3-fbd6-350f-0456be6ebe85": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Railing.mesh.nasset/Thumbnails/Railing.mesh.nasset.tex.nasset"
+    },
+    "d865e426-9a9f-4c6b-2edb-e917d3393c8a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Start.mesh.nasset/Road Start.mesh.nasset",
+        "thumbnail": "fd4a7fda-d1d9-44fb-976b-eaa116cecb82",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "3c693495-e002-30ea-c796-063a21e5f9fe",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "36ac2d08-fbc3-3cae-fd76-31c5df629716",
+            "3b71020f-f6f7-74ce-9083-5d1a70a0e8d9",
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "6745fecd-fff4-c1ac-0604-f1674e147123"
+        ]
+    },
+    "d9a0ca84-4044-e0c1-f26d-20dafa86efb2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pit Exit.mesh.nasset/Pit Exit Trim Scondary.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "36ac2d08-fbc3-3cae-fd76-31c5df629716",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d9c50d3d-42ff-a844-e210-fb823c89fe08": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Ground Tile.mesh.nasset/Ground Tile Dirt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "90248c64-942b-ae6b-d05f-fa52bfdc417d",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d9facafe-a98e-2ff9-6eab-333f2ea180d6": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Default.mtli.nasset",
+        "thumbnail": "f7bcf557-cc13-1c7c-ef79-5835171d0893",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "da5b1033-758e-8d47-91a7-74e2496699b5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Medium.mesh.nasset/Road Corner Medium White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "da629434-119f-2f56-6425-2d50d2655522": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pit Office.mesh.nasset/Thumbnails/Pit Office.mesh.nasset.tex.nasset"
+    },
+    "da66ab77-188a-352c-4b6c-be1d31673847": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grandstand Covered.mesh.nasset/Grandstand Covered Default.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d9facafe-a98e-2ff9-6eab-333f2ea180d6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "dac59f76-2815-7de7-6f89-a2e560fc0a3d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Satellite.mesh.nasset/Satellite Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "db1b7cbf-a84d-8514-53e8-ac2deade9555": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Bark.mtli.nasset.tex.nasset"
+    },
+    "dbe70a07-7348-a2fe-7623-2d0fcd763669": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pine Tree 02.mesh.nasset/Pine Tree 02 Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "e90e7c9e-c792-25da-2a4d-ec657a0673c1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "dc64ea15-345b-5cbc-a22d-ce9233791896": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Ground Large.mesh.nasset/Ground Large Dirt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "90248c64-942b-ae6b-d05f-fa52bfdc417d",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "dd510e85-b9cc-59e2-5351-43904526fbe6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Common Tree 02.mesh.nasset/Common Tree 02.mesh.nasset",
+        "thumbnail": "34487ca1-68fb-777d-4724-be2cb885ca4a",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "e90e7c9e-c792-25da-2a4d-ec657a0673c1",
+            "0b52ab1c-aff5-cad9-263f-2572ae7b150e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "50d8f313-0b87-59f7-d9c6-4edda96b36ed",
+            "448d49ed-bb2a-e310-a958-b1658d840cce"
+        ]
+    },
+    "ddea454c-a4e1-3b7c-9307-445337f40429": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pine Tree 01.mesh.nasset/Pine Tree 01.mesh.nasset",
+        "thumbnail": "f8954d4b-d012-73d7-86cd-0c1604fa8088",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "e90e7c9e-c792-25da-2a4d-ec657a0673c1",
+            "9b63f74b-3bef-3b90-5ea3-64c07c86dd3f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "50d8f313-0b87-59f7-d9c6-4edda96b36ed",
+            "8c8be015-7fdf-49b4-de7c-33bcef08772b"
+        ]
+    },
+    "e158bce9-2b67-46a1-b455-1bc645284c0c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Flag Checkered.mesh.nasset/Flag Checkered.mesh.nasset",
+        "thumbnail": "51d9842c-fe46-c35c-f80f-44bb24b5c140",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "b7aad9f9-34c4-4a68-7e1e-3518f755a8f6",
+            "476d34b7-e0fb-7c2c-821c-0b3aa0cedde9",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "d9facafe-a98e-2ff9-6eab-333f2ea180d6",
+            "fc088378-3e46-ac8e-93a3-adcc70be01c3",
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "6ac6f337-275c-a6ba-54d5-04c167c263ab",
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "f8c44017-91a9-9f51-d040-7d89eeedbdda"
+        ]
+    },
+    "e16c582b-b8cd-e3a9-8d37-de51dce7a5b5": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/SC_Formula.scene.nasset",
+        "dependencies": [
+            "c4324a99-24b4-78fc-4548-09681446fe9e",
+            "041c5f9b-685d-5873-4622-6fb067998890",
+            "abb6f538-88ac-4366-70c1-9a611374afec",
+            "afe51aec-1b34-a252-80c0-1efc4c540903",
+            "34afdc84-7df6-cd31-abe3-79735306bc5a",
+            "2554e41b-b869-ff5f-244a-a25fa0f38aa6",
+            "7c7d0d6f-23e7-62b6-f201-d221026f600f",
+            "5645e072-e6d2-ddfa-f3a0-05ea4b38f7e1",
+            "bdac3aa2-175a-659b-ba7b-fcb76ecc8d4a",
+            "b19aab21-ecdb-b152-ee79-cd56b46456dc",
+            "037c83a3-3842-c40d-7e1b-9cb4e38db3af",
+            "8f04ee5d-3868-68cd-d2a1-38b489d8b5a0",
+            "c66134f7-c165-8513-47ea-d39fd4ef96b5",
+            "1eecab21-82e1-6d51-ed62-402275ef3e7c",
+            "b6d95d5b-7d8c-9e4d-eaa9-e636caeed34a",
+            "9e14e198-8d6a-b0b3-785b-ed970f999e8d",
+            "8cb2ffcf-ebd6-e44f-72a1-9f6bf61549aa",
+            "31f74022-8fa3-f0c2-22dc-01fa293e1ce6",
+            "d865e426-9a9f-4c6b-2edb-e917d3393c8a",
+            "e9b6b193-adb8-d9f7-6794-a989ae0d9fc4",
+            "4defb6a2-f67b-16a4-88a2-45ef6f58b126",
+            "e655cac3-e9ee-ee5b-d59f-15658860560a",
+            "e5f54c31-a815-01b5-8312-678e51d7238f",
+            "cdf7fb7a-eb86-298e-330c-2ebcac3806ac",
+            "0361cbb3-8733-1d0c-b0ec-d2bc69009778",
+            "9cd73a8f-54b8-8c93-f460-c271bee25b90",
+            "b1c5008e-d2fd-5f11-e04e-0b0a054a1a0c",
+            "97fca62f-7191-aa47-896f-1ddd51a7a2ef",
+            "457df193-1ea2-2130-caf9-5ae05eafa1d5",
+            "795c007d-306e-1552-c8eb-44709d74b5ce",
+            "7dd9da01-e576-8a61-50d9-b558825bb31b",
+            "c32ffc99-4531-6dc8-615d-60ffed10d038",
+            "3b867ad9-04e4-a377-9c9e-fbdc60c52c1c",
+            "c58441fa-6bbc-46a2-37ea-6ef68dca80f9",
+            "6dfa74f3-2722-cbb4-b7e4-68eda2d057a8",
+            "513dad72-e741-783f-971e-12879cb3a676",
+            "20dafb0f-6550-8564-da3b-a96f0be5a71a",
+            "46c57e92-d18d-e538-b494-00a25e5bb5f9",
+            "fac4af19-936e-3937-741d-f4c909ea746b",
+            "145b86f5-9309-2112-d087-48d61dc11013",
+            "e158bce9-2b67-46a1-b455-1bc645284c0c",
+            "27287762-ac31-3f35-9df0-a6e17f3ae8f6",
+            "dd510e85-b9cc-59e2-5351-43904526fbe6",
+            "0fec59bd-bbab-4330-1423-5e8927341428",
+            "48b6dc19-1ab0-1027-ccdf-e47cd35282e7",
+            "b32780d8-ae5f-4bc8-5400-89d7cb350837",
+            "c78e249a-48df-98a3-9499-2a490d192c83",
+            "06d5533d-cb79-26d4-b05d-8535948f3eb5",
+            "d34b8018-d59d-2c03-09b7-95019ee63c31",
+            "ddea454c-a4e1-3b7c-9307-445337f40429",
+            "290129a5-ff17-33c6-e3cd-9295b41c116c",
+            "b20478dc-6ffd-aec6-32e7-6429a065fe1e",
+            "1a2602be-ce70-e41e-aa0b-87bf3c6ef21f",
+            "d552462f-0e51-24be-7d21-e0f188829a85",
+            "1ac8af9d-191b-f919-487a-d0e4157681fa",
+            "f74c0c05-eff0-a5f2-16c7-07d78e56fa26",
+            "373ce1d0-1a6c-867e-74e6-d959985e3ab0"
+        ]
+    },
+    "e1d65e8a-b006-51a5-516b-2fd4e4259b17": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Barrier Wall.mesh.nasset/Barrier Wall White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e2fa4db0-d714-a843-299e-33b0cc346892": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Tent Closed.mesh.nasset/Thumbnails/Tent Closed.mesh.nasset.tex.nasset"
+    },
+    "e5a83c88-0e54-f009-413a-b6a97106c942": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Common Tree 05.mesh.nasset/Common Tree 05 Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "e90e7c9e-c792-25da-2a4d-ec657a0673c1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e5f54c31-a815-01b5-8312-678e51d7238f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pit Entry.mesh.nasset/Pit Entry.mesh.nasset",
+        "thumbnail": "963b3773-fda5-e827-ed8f-703dcda341f0",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "3ab10002-8163-1520-435f-2a33000d593a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "36ac2d08-fbc3-3cae-fd76-31c5df629716",
+            "ab0e8c12-a637-512d-0aa8-a68d65a7bd7a",
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "28ac3283-45e8-8338-a9d0-424ea341eb38"
+        ]
+    },
+    "e655cac3-e9ee-ee5b-d59f-15658860560a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Straight Large.mesh.nasset/Road Straight Large.mesh.nasset",
+        "thumbnail": "7612280e-d970-5669-cbfb-bdb096b26232",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "36ac2d08-fbc3-3cae-fd76-31c5df629716",
+            "54e686ff-5ac1-875a-9911-2adb3c60f3c4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "6d941aba-97dd-f843-1c52-252efcd7cc5e",
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "81da670a-85a6-166c-d1dc-18c90705e184"
+        ]
+    },
+    "e6d6f896-8dbf-e687-835f-d04e23d700e7": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Metal.mtli.nasset",
+        "thumbnail": "5cf4d1a3-8c06-1380-18e9-59e749352cf6",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "e75903ab-159b-4942-a324-05e54bbbceff": {
         "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
         "path": "Package.nplugin"
     },
-    "eaae3d75-9dfe-9c32-88fc-8ce9d17387fd": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Tower_Thumb.tex.nasset"
+    "e846ef50-28af-2731-0996-473d9bb8ad75": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Large Outer.mesh.nasset/Road Corner Large Outer Trim Red.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0c8f8a50-6392-07e9-869e-5abee6b37b67",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "eac075f4-ec19-e3aa-46b9-634e45561969": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Rock_Snow_07_Thumb.tex.nasset"
+    "e90e7c9e-c792-25da-2a4d-ec657a0673c1": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Wood.mtli.nasset",
+        "thumbnail": "d5b4edff-746c-b4f7-fca2-0c7721c3c462",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
-    "ebf70ca5-a23e-446f-6c74-79f3cf481b9b": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Tent_Roof_Thumb.tex.nasset"
+    "e9b6b193-adb8-d9f7-6794-a989ae0d9fc4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Tower.mesh.nasset/Tower.mesh.nasset",
+        "thumbnail": "17615dd0-73d4-ed3f-22c1-f916ce383a02",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "d9facafe-a98e-2ff9-6eab-333f2ea180d6",
+            "7c7781a1-4223-e58b-9fff-dbae3b42c1d3",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "0267beec-83bb-8368-daaa-5b4ac88ac0eb",
+            "4f016370-a3c3-2dcb-2bb5-08b2f5d7decb"
+        ]
     },
-    "eebd8111-318d-ebfc-8688-6f1aec585f57": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Rock_Snow_01_Thumb.tex.nasset"
+    "eba90897-7c03-7784-f6c5-6e0c59129f3c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pit Exit.mesh.nasset/Pit Exit Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
-    "f4036a91-82c8-c974-e708-088309558ea6": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Rock_Moss_06_Thumb.tex.nasset"
+    "ec2268b9-a52e-1b6f-f6c9-d67cf332ad0f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Pylon.mtli.nasset",
+        "thumbnail": "c52670ae-9c2f-b74d-5564-0b0897884631",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
-    "fbe2a7fd-fdf2-a38f-e7e1-688508e94cb7": {
+    "ec48abbc-9a7a-a267-1df9-e50775089f98": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grandstand.mesh.nasset/Grandstand White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ed202903-6118-f7ba-8bc6-5ea809994338": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Billboard.mesh.nasset/Billboard Bark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "628aa6cd-73d1-08e4-4b62-2a96c9c5298d",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ef9a8a78-4bcf-64f0-65d5-b32adb46f1bb": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Racecar/SM_Racecar_Wheel.scene.nasset/SM_Racecar_Wheel.scene.nasset"
+    },
+    "f1d35e7d-1b74-e8b2-b960-d34c7f73ea31": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grandstand Awning.mesh.nasset/Grandstand Awning Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f2d21870-789a-9363-6bc2-6ceb61ea550c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Billboard.mesh.nasset/Billboard Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f3b3f56f-14dd-6f9c-f3a9-367509f9fddc": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Tent_Thumb.tex.nasset"
+        "path": "Assets/Source/SC_Formula.scene.nasset/Ground Tile.mesh.nasset/Thumbnails/Ground Tile.mesh.nasset.tex.nasset"
+    },
+    "f3db5e17-dc62-12e2-a5fa-949ed7fdb48e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grandstand Round.mesh.nasset/Grandstand Round Trim Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0267beec-83bb-8368-daaa-5b4ac88ac0eb",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f455dffc-8c28-76b6-89a5-93d4fb5aa00c": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/White.mtli.nasset",
+        "thumbnail": "2bf52fd6-46d0-14e5-c8d4-84064efa77e7",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "f492d296-77c9-de15-3088-688f79c8c7c2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner.mesh.nasset/Thumbnails/Road Corner.mesh.nasset.tex.nasset"
+    },
+    "f493b16f-808e-6739-7069-5cadd25cd3e8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Cone.mesh.nasset/Cone Pylon.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "ec2268b9-a52e-1b6f-f6c9-d67cf332ad0f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f55f4031-0e96-8315-6fc0-804d526c8da6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Garage Corner.mesh.nasset/Garage Corner Glass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0efac695-6d6c-e7d2-2243-48fbe636ee4e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f5765181-0c77-d6a4-c8e6-4a948f319c6b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Lightpost.mesh.nasset/Lightpost White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f597acb3-b29c-78fb-00d3-21d09860fe16": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Medium.mesh.nasset/Road Corner Medium Trim Scondary.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "36ac2d08-fbc3-3cae-fd76-31c5df629716",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f6377b64-553e-cabe-b33a-85138d51108b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Tent Closed.mesh.nasset/Tent Closed White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f74c0c05-eff0-a5f2-16c7-07d78e56fa26": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Sun.mesh.nasset/Sun.mesh.nasset",
+        "thumbnail": "37677607-d8ee-cdd2-d999-44d4b1cd8bc2",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "b48653fd-3fcf-3730-8cfe-045cdd02cb10",
+            "715993e6-e6ab-3b19-c6e0-b44cac0c2afc",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f7bcf557-cc13-1c7c-ef79-5835171d0893": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Default.mtli.nasset.tex.nasset"
+    },
+    "f7c4b185-e5be-aa33-74df-faa46115c41e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Dirt.mtli.nasset.tex.nasset"
+    },
+    "f7d405d9-aa98-2481-5731-eb5b52600543": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Banner.mesh.nasset/Banner Ngine.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "3eb0324b-f696-0f72-b057-26c715d19dd8",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f81ed289-ab27-58d8-9ecc-bd20df6ddea9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Garage Closed.mesh.nasset/Garage Closed Trim Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0267beec-83bb-8368-daaa-5b4ac88ac0eb",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f8954d4b-d012-73d7-86cd-0c1604fa8088": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pine Tree 01.mesh.nasset/Thumbnails/Pine Tree 01.mesh.nasset.tex.nasset"
+    },
+    "f8c44017-91a9-9f51-d040-7d89eeedbdda": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Flag Checkered.mesh.nasset/Flag Checkered Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "bdfb01cf-6797-8115-11b0-5a98fc685e79",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "fa586c54-6471-7c1a-1a67-8b908b6ee41c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grass 02.mesh.nasset/Grass 02 Green.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "50d8f313-0b87-59f7-d9c6-4edda96b36ed",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "fac4af19-936e-3937-741d-f4c909ea746b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Corner Large Outer.mesh.nasset/Road Corner Large Outer.mesh.nasset",
+        "thumbnail": "9ee85659-535f-4ee5-66e4-d5c8e8cb3750",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0c8f8a50-6392-07e9-869e-5abee6b37b67",
+            "e846ef50-28af-2731-0996-473d9bb8ad75",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "d5dc7608-f7bb-9ffe-301e-7b8d58807167",
+            "8d9b26a6-eca1-a34c-b736-b99dbf24de10"
+        ]
+    },
+    "fc088378-3e46-ac8e-93a3-adcc70be01c3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Flag Checkered.mesh.nasset/Flag Checkered Default.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d9facafe-a98e-2ff9-6eab-333f2ea180d6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "fd029beb-9f46-8642-163e-4fdf10390509": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grass 01.mesh.nasset/Thumbnails/Grass 01.mesh.nasset.tex.nasset"
+    },
+    "fd4a7fda-d1d9-44fb-976b-eaa116cecb82": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Road Start.mesh.nasset/Thumbnails/Road Start.mesh.nasset.tex.nasset"
+    },
+    "feb1ceef-7d4d-3902-397c-48a0a2a8ca5b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Lightpost Quad.mesh.nasset/Thumbnails/Lightpost Quad.mesh.nasset.tex.nasset"
+    },
+    "fefb64cd-fc1f-31a7-96ca-aeffcb11df56": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Grass.mtli.nasset",
+        "thumbnail": "733ed368-0333-6d21-9732-2b4e93a50079",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "ff4b7d6d-fc72-dbd4-66d8-1c7db52d6c30": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Grandstand.mesh.nasset/Thumbnails/Grandstand.mesh.nasset.tex.nasset"
+    },
+    "ff7b374a-341d-6785-7787-bbd79bfb9a72": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Formula.scene.nasset/Pit Office.mesh.nasset/Pit Office White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f455dffc-8c28-76b6-89a5-93d4fb5aa00c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "guid": "2741bb12-5423-e8ba-6411-23375c090b6e"
 }
