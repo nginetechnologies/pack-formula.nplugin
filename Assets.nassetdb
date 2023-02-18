@@ -3289,7 +3289,8 @@
     },
     "e75903ab-159b-4942-a324-05e54bbbceff": {
         "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
-        "path": "Package.nplugin"
+        "path": "Package.nplugin",
+        "name": "Formula Assets"
     },
     "e846ef50-28af-2731-0996-473d9bb8ad75": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
