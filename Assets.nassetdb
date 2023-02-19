@@ -375,6 +375,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "1e71738a-10e5-7160-578f-434ede5c7576": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnails/M_Skybox.mtli.nasset.tex.nasset"
+    },
     "1eecab21-82e1-6d51-ed62-402275ef3e7c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1260,7 +1264,7 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/M_Skybox.mtli.nasset",
-        "thumbnail": "8bcac5e9-3d51-56dc-992a-a0c38bb6b2e6"
+        "thumbnail": "1e71738a-10e5-7160-578f-434ede5c7576"
     },
     "5b2cc042-73dc-ea84-8f3a-d0adf41a853e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
