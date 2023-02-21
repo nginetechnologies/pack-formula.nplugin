@@ -1,10 +1,10 @@
 {
     "guid": "5a3f18e7-4fe4-48d0-b937-e1ba7c24999b",
-    "material": "d5e247de-909a-43d2-a09f-b711e093d5cb",
-    "descriptor_contents": [
+    "material": "d3b37153-2dce-4574-a8f1-f118df0e8e30",
+    "push_constants": [
         {
-            "texture": "b5c9e115-a90b-5091-b390-ec8b84b22ea3",
-            "address_mode": 0
+            "type": 0,
+            "color": "#87CEEB"
         }
     ],
     "thumbnailGuid": "1e71738a-10e5-7160-578f-434ede5c7576",
